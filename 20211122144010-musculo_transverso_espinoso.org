@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       c8ee69b6-a502-4c8e-a98e-d9012292f7e6
+:END:
+#+title: Musculo Transverso Espinoso
+* Origen e Insercion
+  De la apofisis transversa de una [[id:e9be3111-5c1f-4280-8c3a-778628e47ab8][Vertebra]] a
+** Laminar Corto
+   El Laminar de la [[id:e9be3111-5c1f-4280-8c3a-778628e47ab8][Vertebra]] superior.
+** Laminar Largo
+   El Laminar de la [[id:e9be3111-5c1f-4280-8c3a-778628e47ab8][Vertebra]] 2 arriba.
+** Espinal Corto
+   La apofisis espinosa de 3 [[id:e9be3111-5c1f-4280-8c3a-778628e47ab8][Vertebras]] mas arriba.
+** Espinal Largo
+   La apofisis espinosa de 4 [[id:e9be3111-5c1f-4280-8c3a-778628e47ab8][Vertebras]] mas arriba.
+* Accion
+** Bilateral
+   - [[id:fea48c0a-0de5-4592-b8d0-c06482e630e4][Extension]] de [[id:08b2fa9e-eab9-4425-b9ee-864c19c1eeea][Cuello]]
+   - [[id:fea48c0a-0de5-4592-b8d0-c06482e630e4][Extension]] de [[id:3648a3b9-80ee-4097-b027-eefc2b3b634f][Tronco]]
+** Unilateral
+   - [[id:6cc53f10-4f2e-4772-8a43-78b8682d00f5][Inclinacion]] Homolateral

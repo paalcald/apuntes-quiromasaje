@@ -1,0 +1,98 @@
+:PROPERTIES:
+:ID:       c621741b-6acd-4413-84b2-74256ca69e5c
+:END:
+#+title: Cintura Escapular
+#+filetags: :hueso:
+* Esternón
+:PROPERTIES:
+:ID:       17051422-a047-4776-998b-122cec04c253
+:END:
+Hueso plano. Se divide en tres partes:
+** Manubrio
+Articula con la [[id:148c58ae-51c0-4205-9e20-629e0d39213f][Clavícula]] y la [[id:8936eb16-46a4-427a-ac2c-b4e89a2bb329][1a Costilla]].
+** Cuerpo
+Presenta siete escotaduras.
+** Apéndice Xifoides
+:PROPERTIES:
+:ID:       760a0b77-d703-4d0c-b492-bc504d38b613
+:ROAM_ALIASES: "Apófisis Xifoides"
+:END:
+No siempre existe.
+* Clavícula
+:PROPERTIES:
+:ID:       148c58ae-51c0-4205-9e20-629e0d39213f
+:END:
+Hueso corto y cilíndrico.
+** Poner articulaciones.
++ Por su extremidad interna articula con el [[id:17051422-a047-4776-998b-122cec04c253][Esternón]], por la [[id:e2aa7df5-7a08-44d6-bef3-a89cfc87728c][Articulación Esterno Costo Clavicular]], que es de tipo [[id:d0e5e09c-6c02-48b5-b190-f5f5e9e7d42f][silla de montar]].
++ Por su extremidad externa articula con el Omóplato([[id:54bcadd4-fb90-47ca-8cc4-a975da2e4315][Escápula]]), por la [[id:fc1713de-066b-483a-958d-245e149a51b4][Articulación Acromio Clavicular]], que es de tipo [[id:ee3784a4-8bf8-4190-80c5-6413d82e42e6][artrodial]] (deslizamiento).
+* Omóplato
+:PROPERTIES:
+:ID:       54bcadd4-fb90-47ca-8cc4-a975da2e4315
+:ROAM_ALIASES: Escápulas
+:END:
+Hueso plano y triangular. Presenta:
+** Cara Anterior de la Escápula
+:PROPERTIES:
+:ID:       068721a0-f7f8-48b7-9b90-fed940425b7f
+:ROAM_ALIASES: "Fosa Subescapular"
+:END:
+Es cóncava en casi toda su extensión, lo que se llama Fosa Subescapular.
+** Cara Posterior de la Escápula
+:PROPERTIES:
+:ID:       c4da3715-518e-4c7e-8e99-53dd6a72a7db
+:END:
+** Ángulo Superior de la Escápula
+:PROPERTIES:
+:ID:       a0e2a0f3-2989-4888-8240-8eea2c53068b
+:END:
+** Ángulo Inferior de la Escápula
+:PROPERTIES:
+:ID:       6fec9c85-818c-4912-a9ac-1ceb733824be
+:END:
+** Ángulo Externo de la Escápula
+:PROPERTIES:
+:ID:       511a7799-04fe-4059-bd10-a6ac4d754e15
+:END:
+** Borde Superior de la Escápula
+:PROPERTIES:
+:ID:       79eb3c91-192c-4688-ba56-e4ee469411ae
+:END:
+** Borde Inferior de la Escápula
+:PROPERTIES:
+:ID:       1c318394-b2df-4018-ae79-8413ab14b412
+:END:
+** Borde Externo de la Escápula
+:PROPERTIES:
+:ID:       9440c676-ae09-4061-8e06-993898f1e86c
+:END:
+** Borde Interno de la Escápula
+:PROPERTIES:
+:ID:       420cb7d9-0321-4f47-a02c-221c042f7566
+:END:
+** Espina de la Escápula
+:PROPERTIES:
+:ID:       8bcdbf99-3caf-4fa4-bd29-6bc54308d04a
+:END:
+** Fosa Supraespinosa de la Escápula
+:PROPERTIES:
+:ID:       0280e7db-6607-4af4-8d15-6712c815ad68
+:END:
+** Fosa Infraespinosa de la Escápula
+:PROPERTIES:
+:ID:       21145b5e-70ef-4cab-a81a-737940b4777b
+:END:
+** Apófisis Coracoides
+:PROPERTIES:
+:ID:       ab4af034-8c2e-4c78-a9f6-cec1860b1017
+:END:
+
+** Acromión
+:PROPERTIES:
+:ID:       b2325f89-a0b5-4066-9240-58fee8ec6372
+:END:
+** Cavidad Glenoidea
+:PROPERTIES:
+:ID:       434a17e2-275d-4f0b-a09f-1271e282af3a
+:END:
+

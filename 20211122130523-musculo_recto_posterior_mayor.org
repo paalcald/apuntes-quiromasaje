@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       a7b341d8-332d-41b9-867e-ef19cc02a6fe
+:END:
+#+title: Musculo Recto Posterior Mayor
+* Origen
+  Apofisis Espinosa del [[id:3282a63a-6da2-4706-9a58-56969129e939][Axis]]
+* Insercion
+  [[id:3ca983c6-3d38-4250-a122-d09ff9936fcd][Hueso Occipital]] por fuera del [[id:028f3f27-2aad-40ef-952a-59a535c0b916][recto posterior menor]].
+* Accion
+** Bilateral
+   [[id:fea48c0a-0de5-4592-b8d0-c06482e630e4][Extension]] de [[id:c53713c6-4c74-4fd9-91da-80dc1f06f0d8][Cabeza]].
+** Unilateral
+   [[id:6cc53f10-4f2e-4772-8a43-78b8682d00f5][Inclinacion]] homolateral.

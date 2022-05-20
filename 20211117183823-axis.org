@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       3282a63a-6da2-4706-9a58-56969129e939
+:ROAM_ALIASES: C2
+:END:
+#+title: Axis
+

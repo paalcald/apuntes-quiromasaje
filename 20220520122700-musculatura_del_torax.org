@@ -1,0 +1,129 @@
+:PROPERTIES:
+:ID:       95115a9c-4c23-4fa2-b39f-b6bfb1ad63ec
+:END:
+#+title: Musculatura del Tórax
+#+filetags: :musculo:
+* Músculos Intercostales
+:PROPERTIES:
+:ID:       458c3c24-7241-4458-bbd0-ff58c4b8c9a5
+:END:
+Ocupan es espacio comprendido entre 2 costillas.
+Los hay en dos planos:
+** Intercostales Internos
+Fibras oblicuas hacia abajo y hacia atrás.
+** Intercostales Externos
+Fibras oblicuas hacia delante y abajo.
+** Accion
+- Trabajan en la inspiración.
+- Forman una capa muscular que solidariza las costillas.
+* Músculos Supracostales
+:PROPERTIES:
+:ID:       7697233d-b787-4bdb-8a4c-8b7616c050c1
+:END:
+** Origen
+Apófisis Transversa de Vértebra Dorsal
+** Inserción
+1a ó 2a [[id:397289b2-ed87-4ddc-af39-42f12e526fd6][Costilla]] por debajo
+** Accion
+*** Punto Fijo Origen
+Elevacion de la [[id:397289b2-ed87-4ddc-af39-42f12e526fd6][Costilla]] ([[id:d8e825b3-4db5-4207-b024-141454f3f16f][Inspiración]])
+*** Punto Fijo Inserción
+Rotación Vertebral
+* Triangular del Esternón
+:PROPERTIES:
+:ID:       ba196d17-3c45-4a03-8f4d-c5f1e18f9e20
+:END:
+** Origen
+Cara posterior del [[id:17051422-a047-4776-998b-122cec04c253][Esternón]] y del [[id:760a0b77-d703-4d0c-b492-bc504d38b613][Apéndice Xifoides]]
+** Inserción
+Desde la [[id:e79c267a-fdd1-48b4-b219-dba8303377ee][2a Costilla]] a la [[id:860d3aa4-341d-4d86-9fc2-f8a899530ab4][6a Costilla]], por su parte más interna.
+** Acción
+[[id:32be9825-551a-45a5-a671-96b9cc91203b][Espiración]]
+* Diafragma
+:PROPERTIES:
+:ID:       cff9402a-55cc-4b5c-b999-ee9beaa3fb7e
+:END:
+Músculo plano, con forma de cúpula, separa el tórax del abdomen.
+Es el principal músculo inspirador.
+Ocupa la Caja Torácica y parte del Abdomen siendo de los músculos más grandes del cuerpo.
+En su parte central presenta el Centro Frénico, de ahí salen 3 tipos de fibras:
+- Fibras Esternales que se insertan en la [[id:760a0b77-d703-4d0c-b492-bc504d38b613][Apófisis Xifoides]].
+- Fibras Costales que se insertan en el Cartílago Costal y las costillas de la [[id:2f0ad770-dec6-432f-9721-3173824c0c4a][7a Costilla]] hasta la [[id:a415dc5c-c673-48ba-92e8-409bc4c706aa][12a Costilla]].
+- Fibras Vertebrales que se insertan en las vértebras lumbares.
+* Cuadrado Lumbar
+:PROPERTIES:
+:ID:       6c4a66ac-7798-4dfc-b7e9-a9cf2485e982
+:END:
+** TODO Origen 
+Cresta Ilíaca
+** TODO Inserción
+[[id:a415dc5c-c673-48ba-92e8-409bc4c706aa][Ultima Costilla]] y Apófisis Transversas de las 5 vértebras lumbares.
+** Acción
+*** Punto fijo en el Origen
+Desciende la [[id:a415dc5c-c673-48ba-92e8-409bc4c706aa][12a Costilla]], [[id:32be9825-551a-45a5-a671-96b9cc91203b][Espiración]], Inclinación Homolateral de las Vértebras Lumbares.
+*** Punto fijo en la Inserción
+Elevación de la hemipelvis.
+* Serrato Menor Posterior Superior
+:PROPERTIES:
+:ID:       856fe0c3-9f18-4b7e-81da-b5c7e3ac94aa
+:END:
+** TODO Origen
+Apófisis Espinosas C7 a D3.
+** Inserción
+5 primeras [[id:397289b2-ed87-4ddc-af39-42f12e526fd6][Costillas]]
+** Accion
+Elevador de las [[id:397289b2-ed87-4ddc-af39-42f12e526fd6][Costillas]] e [[id:d8e825b3-4db5-4207-b024-141454f3f16f][Inspiración]].
+* Serrato Menor Posterior Inferior
+:PROPERTIES:
+:ID:       dd8fae05-9f48-4911-9598-7f979c81672d
+:END:
+** TODO Origen
+:PROPERTIES:
+:ID:       a50e5f96-89d1-44e2-a373-9be1d47860ad
+:END:
+Apófisis Espinosas de D11 a L2.
+** Inserción
+4 últimas [[id:397289b2-ed87-4ddc-af39-42f12e526fd6][Costillas]].
+** Acción
+Desciende las [[id:397289b2-ed87-4ddc-af39-42f12e526fd6][Costillas]] y [[id:32be9825-551a-45a5-a671-96b9cc91203b][Espiración]].
+* Pectoral Menor
+:PROPERTIES:
+:ID:       875c8440-6dcc-42ae-966f-30f2b15273d5
+:END:
+Músculo pequeño situado por debajo del pectoral mayor.
+** Origen
+[[id:ab4af034-8c2e-4c78-a9f6-cec1860b1017][Apófisis Coracoides]]
+** Inserción
+[[id:932094d1-f849-4449-ae7d-12971c3eeacd][3a]], [[id:7cb82592-24eb-4c4d-8e4d-3337efa76176][4a]] y [[id:ade9483d-a573-420f-8118-a96e3d75f5bd][5a]] [[id:397289b2-ed87-4ddc-af39-42f12e526fd6][Costillas]].
+** Acción
+Músculo auxiliar de la [[id:d8e825b3-4db5-4207-b024-141454f3f16f][Inspiración]], eleva las [[id:397289b2-ed87-4ddc-af39-42f12e526fd6][Costillas]].
+* Pectoral Mayor
+:PROPERTIES:
+:ID:       d6602862-2665-4012-81b9-5e62fcd7ff6b
+:END:
+Músculo potente situado en la parte anterior del tórax. Con tres tipos de fibras:
+** Origen
+- Las Fibras Claviculares se originan en los dos tercios internos de la [[id:148c58ae-51c0-4205-9e20-629e0d39213f][Clavícula]].
+- Las Fibras Esternales se originan a lo largo del cuerpo del [[id:17051422-a047-4776-998b-122cec04c253][Esternón]].
+- Las Fibras Costales se originan en los 6 primeros Cartílagos Costales y en la [[id:2f0ad770-dec6-432f-9721-3173824c0c4a][7a Costilla]].
+** Inserción
+Todas las fibras se unen en un potente tendón que se inserta en el [[id:7efa3338-9ebc-4d09-9dbc-54ebf25cdeb0][Húmero]] en la [[id:c23728fc-5d08-45cd-ac42-efd2f3076bbb][Corredera Bicipital]].
+** Acción
+*** Punto fijo el origen
+[[id:5f424bd3-4d85-4d7c-b5d1-580d2aa3fc82][Aducción]] y [[id:0d05a141-f797-4f87-aaaf-b0151f6c3379][Rotación]] Interna.
+*** Punto fijo inserción
+Apertura de la Caja Torácica y elevación de las [[id:397289b2-ed87-4ddc-af39-42f12e526fd6][Costillas]] ([[id:d8e825b3-4db5-4207-b024-141454f3f16f][Inspiración]]).
+* Serrato Mayor
+:PROPERTIES:
+:ID:       87b15e01-3f8d-4da8-83f6-2896d2bbc11c
+:END:
+** Origen
+Surge de la [[id:068721a0-f7f8-48b7-9b90-fed940425b7f][Cara Anterior de la Escápula]], luego se enrolla hacia afuera y adelante alrededor de las [[id:397289b2-ed87-4ddc-af39-42f12e526fd6][Costillas]].
+** Inserción
+Generalmente las 9 primeras [[id:397289b2-ed87-4ddc-af39-42f12e526fd6][Costillas]], a veces la 10a.
+** Acción
+*** Punto fijo origen
+Eleva las [[id:397289b2-ed87-4ddc-af39-42f12e526fd6][Costillas]] causando [[id:d8e825b3-4db5-4207-b024-141454f3f16f][Inspiración]].
+*** Punto fijo inserción
+Mantiene el [[id:420cb7d9-0321-4f47-a02c-221c042f7566][Borde Interno de la Escápula]] pegado al Tórax, [[id:19ac5b2b-d732-426e-9a20-c59ba884a53f][Abducción]] y Campaneo Externo (Fibras Inferiores)
+

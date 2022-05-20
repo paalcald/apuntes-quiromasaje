@@ -1,0 +1,42 @@
+:PROPERTIES:
+:ID:       e228df52-bcb2-44b9-ae25-dfc050772b58
+:END:
+#+title: Cubito
+#+filetags: :hueso:
+* Epifisis Superior
+Es mas grande, articula con la troclea del humero por medio de la [[id:5422fc87-6216-428d-be01-5e7ea3686111][Cavidad Sigmoidea Mayor]]. La parte superior de esta epifisis corresponde con el [[id:b9d1a99d-3bd9-4c4f-af9c-c44864f42db3][Olecranon]], este encajara en la [[id:f5aa0b40-c932-4f11-ab07-4db82a2c265f][Fosa Olecraniana]]. Tambien tiene una [[id:9e40718e-71b2-492e-af65-7d2f197495ef][Apofisis Coronoides del Cubito]] que encajara en la [[id:093e503d-ea20-4d78-9519-43f0e4c1a215][Fosa Coronoidea]]
+** Olecranon
+:PROPERTIES:
+:ID:       b9d1a99d-3bd9-4c4f-af9c-c44864f42db3
+:END:
+** Cavidad Sigmoidea Mayor
+:PROPERTIES:
+:ID:       5422fc87-6216-428d-be01-5e7ea3686111
+:END:
+Articula con el [[id:7efa3338-9ebc-4d09-9dbc-54ebf25cdeb0][Humero]]
+** Cavidad Sigmoidea Menor
+:PROPERTIES:
+:ID:       c5c76e9e-e967-4ec0-8f19-bfbdaed80d65
+:END:
+Articula con el [[id:7914be81-6692-4a5a-abd5-11bb4debf5ad][Radio]]
+** Apofisis Coronoides del Cubito
+:PROPERTIES:
+:ID:       9e40718e-71b2-492e-af65-7d2f197495ef
+:END:
+* Diafisis
+* Epifisis Inferior del Cubito
+:PROPERTIES:
+:ID:       e988465e-8634-4277-b200-2e6e8e131d32
+:ROAM_ALIASES: "Epifisis Distal del Cubito"
+:END:
+** Apofisis Estiloides del Cubito
+:PROPERTIES:
+:ID:       b5580a61-730e-4648-8340-84cd11b0e71a
+:END:
+Ligamento lateral interno de la muñeca.
+** Superficie Articular Convexa
+:PROPERTIES:
+:ID:       e524e266-7348-4cf3-a71f-2562f5550835
+:END:
+Articula con el [[id:7914be81-6692-4a5a-abd5-11bb4debf5ad][Radio]]
+

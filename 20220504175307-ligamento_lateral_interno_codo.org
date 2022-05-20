@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       bea1a810-fbed-4cfc-a880-bb59f6534209
+:END:
+#+title: Ligamento Lateral Interno Codo
+#+filetags: :ligamento:
+Tres haces desde la [[id:7eb7336c-f3dd-4432-888d-77f7fd0d8a82][Epitroclea]] al [[id:e228df52-bcb2-44b9-ae25-dfc050772b58][Cubito]]

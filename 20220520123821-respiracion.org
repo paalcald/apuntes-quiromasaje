@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       992df13d-8604-49b8-bc00-0e7e1b6f636c
+:END:
+#+title: Respiración
+* Inspiración
+:PROPERTIES:
+:ID:       d8e825b3-4db5-4207-b024-141454f3f16f
+:END:
+* Espiración
+:PROPERTIES:
+:ID:       32be9825-551a-45a5-a671-96b9cc91203b
+:END:

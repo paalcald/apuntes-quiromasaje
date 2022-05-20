@@ -1,0 +1,88 @@
+:PROPERTIES:
+:ID:       7c466f9d-4709-4d77-9c61-b21dc1b5b8d8
+:END:
+#+title: Articulaciones
+* Definicion
+Las articulaciones de clasifican en 3 grandes grupos segun su grado de movilidad.
+
+* Subclasificaciones
+** Sinartrosis 
+:PROPERTIES:
+:ID:       d60e4e9d-da82-4dac-bfed-938e54c52467
+:END:
+Articulación sin movimiento. Comprende varios tipos, pero todos ellso presentan el rasgo común de que entre ambas superficies articulares existen fibras colágenas , que unon entre sí ambos huesos e impiden el movimiento.
+*** Clasificacion
+**** Armónicas
+   Superficies planas y perpendiculares.
+**** Biseladas
+   En pico de flauta.
+**** Dentadas
+   Como la que forman los parietales entre sí.
+**** Gónfosis
+   La raiz del diente con la cavidad alveolar.
+
+** Anfiartrosis
+:PROPERTIES:
+:ID:       00215312-711a-47cd-8395-f947468d4587
+:END:
+Articulaciones cuyas superficies estan unidas por un fibrocartilago, por lo cual los movimientos que pueden realizar son muy limitados.
+
+*** Ejemplos
+  La articulacion entre los cuerpos de las vertebras.
+Permiten un movimiento limitado.
+  
+** Diartrosis
+:PROPERTIES:
+:ID:       dc33bd6d-b1bd-42cb-a7c2-fca3bbc292e6
+:END:
+Articulaciones que poseen elevado grado de movilidad y poseen todos los elementos de una articulacion tipo. Existen 6 subtipos
+
+*** Articulación Artrodial
+:PROPERTIES:
+:ID:      ee3784a4-8bf8-4190-80c5-6413d82e42e6
+:ROAM_ALIASES: "Articulación Deslizante" "Articulación Plana"
+:END:
+Articulación compuesta por superficies articulares planas que realizan movimienos de deslizamiento.
+*** Articulación Troclear
+:PROPERTIES:
+:ID:       33b14550-a284-47c8-a871-91e81507639b
+:ROAM_ALIASES: "Articulación de Bisagra"
+:END:
+Permiten movimientos en un solo [[id:4023059d-2e0d-42f4-96df-5a39071107ed][Plano de Movimiento]] ([[id:62ca8d4a-d747-466b-971f-988bc3ce5693][Flexion]]-[[id:fea48c0a-0de5-4592-b8d0-c06482e630e4][Extension]]). Poseen una [[id:86cbf8cf-6c28-4c33-bb33-534e6a80b4d9][Troclea]] y dos [[id:bd73f1f3-1a66-493e-90c6-d3246cbfa4c1][Carillas Articulares]].
+**** Troclea
+:PROPERTIES:
+:ID:       86cbf8cf-6c28-4c33-bb33-534e6a80b4d9
+:END:
+En un hueso, se llama troclea o polea a la emincencia construida por dos bordes prominentes y un carril intermedio, a semejanza de una polea mecánica.
+**** Carilla Articular
+:PROPERTIES:
+:ID:       bd73f1f3-1a66-493e-90c6-d3246cbfa4c1
+:END:
+Superficie recubierta de cartilago hialino, que establece contacto con otra superficie equivalente de otro hueso.
+
+*** Articulación Trocoide
+:PROPERTIES:
+:ID:       3cfe5ac7-9166-4da9-83d8-f92064a8fd03
+:ROAM_ALIASES: "Articulación Pivotante" "Articulación Rotatoria"
+:END:
+Tienen un cilindro oseo que gira sobre su propio eje y una cavidad. Permite movimientos en un solo [[id:4023059d-2e0d-42f4-96df-5a39071107ed][Plano de Movimiento]] ([[id:0d05a141-f797-4f87-aaaf-b0151f6c3379][Rotaciones]]).
+
+*** Articulación Condilea
+:PROPERTIES:
+:ID:       71903141-3baf-4461-9276-cd8e226f7bf1
+:ROAM_ALIASES: "Articulación Bicondilar" "Articulación Condiloide" "Articulación Condilar" "Articulación Elipsoidal"
+:END:
+Es una articulación ovoide, o cóndilo que se recibe en una cavidad elíptica. Esto permite el movimiento en dos planos, permitiendo la [[id:62ca8d4a-d747-466b-971f-988bc3ce5693][Flexión]], [[id:fea48c0a-0de5-4592-b8d0-c06482e630e4][Extensión]], [[id:19ac5b2b-d732-426e-9a20-c59ba884a53f][Abducción]], [[id:5f424bd3-4d85-4d7c-b5d1-580d2aa3fc82][Aducción]] y [[id:4a845740-a76f-47cb-b073-41233f9073fd][Circunducción]].
+*** Articulación de Encaje Recíproco
+:PROPERTIES:
+:ID:       d0e5e09c-6c02-48b5-b190-f5f5e9e7d42f
+:ROAM_ALIASES: "Articulación de Silla de Montar" "Articulación Sellar"
+:END:
+Cada una de las superficies articulares es concava en un sentido y convexa en el otro.
+Permite movimientos en dos [[id:4023059d-2e0d-42f4-96df-5a39071107ed][Planos de Movimiento]] e incluyen [[id:62ca8d4a-d747-466b-971f-988bc3ce5693][Flexión]], [[id:fea48c0a-0de5-4592-b8d0-c06482e630e4][Extensión]], [[id:5f424bd3-4d85-4d7c-b5d1-580d2aa3fc82][Aducción]], [[id:19ac5b2b-d732-426e-9a20-c59ba884a53f][Abducción]] y [[id:4a845740-a76f-47cb-b073-41233f9073fd][Circunducción]].
+*** Articulación Enartrosis
+:PROPERTIES:
+:ID:       7ec24805-132e-445e-aba7-4deb917044c8
+:END:
+Sus superficies articulares son una cabeza osea (pseudo esferica) y una cavidad.
+Realizan movimientos en los tres [[id:4023059d-2e0d-42f4-96df-5a39071107ed][Planos de Movimiento]].

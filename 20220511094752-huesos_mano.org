@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       5f5e9e75-03b1-4ad3-8882-d1672829dec5
+:END:
+#+title: Huesos Mano
+La mano está constituida por 27 huesos que se agrupan en 3 areas.
+* [[id:e629e78f-b462-4989-b70a-a7d186a3c98b][Huesos del Carpo]]
+* [[id:50e311fc-3cce-417e-a182-d6eb1811149a][Huesos del Metacarpo]]
+* Huesos de los Dedos
+* Sesamoideos
+ Entre las falanges 1 y 2 de los dedos, dos bolitas por las que pasa en medio el tendón.

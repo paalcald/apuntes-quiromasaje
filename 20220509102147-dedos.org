@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       1a8c0b87-346a-4d9e-b8b5-11082db90568
+:END:
+#+title: Dedos
+

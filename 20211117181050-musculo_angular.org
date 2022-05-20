@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       2bfe9bd6-d6b9-47a5-97c8-6d2ea3a222ea
+:END:
+#+title: Musculo Angular de la Escapula
+* Localizacion
+  Se encuentra en la parte inferior de la nuca
+  
+** Origen
+   Angulo superior interno del [[id:303314fe-2732-49cf-be22-0141a0c8b74c][Omoplato]].
+
+** Insercion
+   Apofisis transversas de [[id:3282a63a-6da2-4706-9a58-56969129e939][C2]], [[id:699a8ad0-12e0-4a3e-a883-c5461f8acbcc][C3]] y [[id:e1e10968-5db3-4d4c-9bd9-48b4475bdbca][C4]].

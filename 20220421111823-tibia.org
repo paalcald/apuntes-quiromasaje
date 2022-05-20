@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       670d70a9-d3f4-4235-8fa9-72d3d8ec0b02
+:END:
+#+title: Tibia
+#+filetags: :hueso:
+Es un hueso a describir.
+* Descripcion

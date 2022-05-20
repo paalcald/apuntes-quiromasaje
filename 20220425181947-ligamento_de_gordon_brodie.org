@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       e4cb5a05-6162-4ba5-8e8d-a364f863b8ca
+:END:
+#+title: Ligamento de Gordon-Brodie
+#+filetags: :ligamento:
+

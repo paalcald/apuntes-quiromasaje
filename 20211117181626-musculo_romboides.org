@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       95af276e-ac05-4381-a3e3-e916871c88cc
+:END:
+#+title: Romboides
+#+filetags: :musculo:
+Está formado por dos músculos el [[id:c04e3055-0afa-489c-bbbc-f7d6a683a2f8][Romboides Menor]] y el [[id:4bc4d234-d660-4392-83ea-43ba5c66728f][Romboides Mayor]]

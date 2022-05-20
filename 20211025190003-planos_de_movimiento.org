@@ -1,0 +1,61 @@
+:PROPERTIES:
+:ID:       4023059d-2e0d-42f4-96df-5a39071107ed
+:END:
+#+title: Plano de Movimiento
+Como objetos tridimensionales que somos el movimiento se puede catalogar en los siguientes tres planos
+* Plano Frontal
+:PROPERTIES:
+:ID:       9a39bac6-8d66-4ba7-84ca-fadae7819e61
+:END:
+Nos divide con planos que corresponden a x = cte. Los movimientos que engloba se clasifican como:
+** Abducción
+:PROPERTIES:
+:ID:       19ac5b2b-d732-426e-9a20-c59ba884a53f
+:ROAM_ALIASES: ABD
+:END:
+Se aleja de eje del cuerpo.
+
+** Aducción
+:PROPERTIES:
+:ID:       5f424bd3-4d85-4d7c-b5d1-580d2aa3fc82
+:ROAM_ALIASES: ADD
+:END:
+#+title: Aduccion
+Se acerca al eje del cuerpo.
+
+* Plano Sagital
+:PROPERTIES:
+:ID:       27bd2aba-779e-4ea1-8f10-ab3eb1a86040
+:END:
+El plano caracterizado por la ecuacion y = cte, los principales movimientos son
+** Flexión
+:PROPERTIES:
+:ID:       62ca8d4a-d747-466b-971f-988bc3ce5693
+:END:
+Te lleva a postura fetal i.e. te contrae.
+** Extensión
+:PROPERTIES:
+:ID:       fea48c0a-0de5-4592-b8d0-c06482e630e4
+:END:
+Te extiende desde la postura fetal i.e. te "estira".
+
+* Plano Transversal
+:PROPERTIES:
+:ID:       c39fa278-4d7c-4ba5-957d-295c297f58b7
+:END:
+El plano caracterizado por la ecuacion z = cte
+
+Los siguientes movimientos pertenecen a este plano
+** Rotación
+:PROPERTIES:
+:ID:       0d05a141-f797-4f87-aaaf-b0151f6c3379
+:END:
+
+* Movimientos Compuestos
+** Circunducción
+:PROPERTIES:
+:ID:       4a845740-a76f-47cb-b073-41233f9073fd
+:END:
+Movimiento circular que combina la [[id:5f424bd3-4d85-4d7c-b5d1-580d2aa3fc82][Aduccion]], [[id:19ac5b2b-d732-426e-9a20-c59ba884a53f][Abduccion]], [[id:fea48c0a-0de5-4592-b8d0-c06482e630e4][Extension]] y la [[id:62ca8d4a-d747-466b-971f-988bc3ce5693][Flexion]].
+
+

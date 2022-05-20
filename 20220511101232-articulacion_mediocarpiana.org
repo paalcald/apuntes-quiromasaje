@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       8eef807b-adbd-41fa-9c30-7fa6a9c4a0e7
+:END:
+#+title: Articulacion Mediocarpiana
+#+filetags: :articulacion:
+* Tipo
+[[id:71903141-3baf-4461-9276-cd8e226f7bf1][Articulacion Condilea]]
+* Tratamientos
+- Se puede movilizar.
+

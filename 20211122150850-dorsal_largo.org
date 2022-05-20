@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       bb59b179-07d5-4edf-a295-5ea9a6f0e439
+:ROAM_ALIASES: "Musculo Longissimus"
+:END:
+#+title:Musculo Dorsal Largo
+* Secciones
+  - [[id:582e3fe8-4914-45b9-836c-4ce3049c3e77][Complejo Menor]]
+  - [[id:0779542f-029d-4e50-b40c-67387aa7352c][Transverso del Cuello]]
+  - [[id:0e0731b6-fa51-4dba-bcd5-6849860f6a00][Dorsal Largo Toracico]]

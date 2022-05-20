@@ -1,0 +1,43 @@
+:PROPERTIES:
+:ID:       e629e78f-b462-4989-b70a-a7d186a3c98b
+:END:
+#+title: Huesos del Carpo
+El carpo está formado por ocho huesos pequeños en dos hiletas transversales, todos estos irregularmente cuboideos y por consiguiente tienen 6 caras. Entre la primera y la segunda hilera se forma la [[id:8eef807b-adbd-41fa-9c30-7fa6a9c4a0e7][Articulacion Mediocarpiana]].
+* Antebraquial
+** Escafoides
+:PROPERTIES:
+:ID:       f1788f66-6c35-4820-a589-7d61ae57fc4b
+:END:
+Mas grande de la primera hilera, extremadamente importante para hacer pinza.
+** Semilunar
+:PROPERTIES:
+:ID:       63211f82-03d9-4b76-91aa-275c8db643b0
+:END:
+** Piramidal
+:PROPERTIES:
+:ID:       49a7a0e7-979d-4adb-9c93-9a1e04e0fe66
+:END:
+** Pisiforme
+:PROPERTIES:
+:ID:       1794914f-1b3f-42e8-80e9-d5f0457ef651
+:END:
+El hueso saliente, se usa para clavar en tratamientos.
+* Metacarpiana
+** Trapecio del Carpo
+:PROPERTIES:
+:ID:       c982b78c-0d8a-4574-9f28-3965f2beb232
+:END:
+En la pinza rueda sobre el escafoides.
+** Trapezoide del Carpo
+:PROPERTIES:
+:ID:       cb579dad-59db-4f20-893b-2267faa581b4
+:END:
+** Grande del Carpo
+:PROPERTIES:
+:ID:       cd2c5936-c0d5-402a-8b08-309a29ebc43e
+:END:
+** Ganchoso
+:PROPERTIES:
+:ID:       5db0e8dc-900d-44a0-be05-edfdd307069c
+:END:
+

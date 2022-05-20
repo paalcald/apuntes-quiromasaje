@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       c04e3055-0afa-489c-bbbc-f7d6a683a2f8
+:END:
+#+title: Romboides Menor
+#+filetags: :musculo:
+* Origen
+  Espinosas de [[id:2f626e95-23bf-47c6-9a02-344fe02d542d][C6]] y [[id:67326e88-1c65-4c13-92fb-4e71d7b34ba4][C7]]
+* Insercion
+  Borde interno de la [[id:303314fe-2732-49cf-be22-0141a0c8b74c][Escapula]].

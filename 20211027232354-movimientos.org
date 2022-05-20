@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       dfc92fb3-c595-4da2-a60b-be7f1c538982
+:END:
+#+title: Movimientos
+
+* Generales
+** [[id:62ca8d4a-d747-466b-971f-988bc3ce5693][Flexion]]
+** [[id:fea48c0a-0de5-4592-b8d0-c06482e630e4][Extension]]
+** [[id:19ac5b2b-d732-426e-9a20-c59ba884a53f][Abduccion ABD]]
+** [[id:5f424bd3-4d85-4d7c-b5d1-580d2aa3fc82][Aduccion ADD]]
+** [[id:0d05a141-f797-4f87-aaaf-b0151f6c3379][Rotacion]]
+   
+* Especificos
+** [[id:844d1f8d-8162-4326-8719-e5706c4666b3][Antepulsion]]
+** [[id:474a9210-7758-43df-b426-9adc078dc982][Retropulsion]]
+** [[id:a563ee2c-3ea1-48e5-ac54-af0bb1bb010e][Anteversion]]
+** [[id:249fc0e7-af88-486c-b080-e0641842f71a][Retroversion]]

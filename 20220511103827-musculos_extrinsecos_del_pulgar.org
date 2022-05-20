@@ -1,0 +1,34 @@
+:PROPERTIES:
+:ID:       452fe00e-4885-429f-bf75-c5657d9ca707
+:END:
+#+title: Musculos Extrinsecos del Pulgar
+#+filetags: :musculo:
+* Extensor Largo del Pulgar
+:PROPERTIES:
+:ID:       8c2d35c5-1027-468f-9aca-1f1e3e80fbae
+:END:
+** Origen
+[[id:e228df52-bcb2-44b9-ae25-dfc050772b58][Cubito]]
+** Insercion
+** Accion
+* Extensor Corto del Pulgar
+:PROPERTIES:
+:ID:       75b212e5-38ee-4991-95b0-27708c76dbe8
+:END:
+** Origen
+** Insercion
+** Accion
+* Flexor Largo del Pulgar
+:PROPERTIES:
+:ID:       beb03d8d-f073-4bc3-b59d-a2cace9092f6
+:END:
+** Origen
+Tercio Proximal del [[id:7914be81-6692-4a5a-abd5-11bb4debf5ad][Radio]]
+** Insercion
+** Accion
+* Abductor Largo del Pulgar
+:PROPERTIES:
+:ID:       4192f6da-ffc0-4a6b-853d-82c799662005
+:END:
+** Origen
+[[id:e228df52-bcb2-44b9-ae25-dfc050772b58][Cubito]]

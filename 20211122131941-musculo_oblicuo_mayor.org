@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       3bf6b666-f62e-479f-906e-fba44a584cee
+:END:
+#+title: Musculo Oblicuo Mayor
+* Origen
+  Apofisis Espinosa del [[id:3282a63a-6da2-4706-9a58-56969129e939][Axis]].
+* Insercion
+  Apofisis Transversa del [[id:00c2a5f5-251a-49eb-b1c3-1bf44abf9d90][Atlas]].
+* Accion
+** Bilateral
+   - [[id:fea48c0a-0de5-4592-b8d0-c06482e630e4][Extension]] de [[id:c53713c6-4c74-4fd9-91da-80dc1f06f0d8][Cabeza]].
+** Unilateral
+   - [[id:6cc53f10-4f2e-4772-8a43-78b8682d00f5][Inclinacion]] Homolateral.
+   - [[id:0d05a141-f797-4f87-aaaf-b0151f6c3379][Rotacion]] Homolateral.

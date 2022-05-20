@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1c3c2990-35bd-4678-973e-90aecf24699d
+:END:
+#+title: Infraespinoso
+Musculo Profundo de la articulación escapulo humeral con 3 vientres, pero funciona igual al tener un tendón común.
+* Origen
+[[id:069dbeaa-857f-4d9b-8f2f-72195030ace9][Fosa Infraespinosa]]
+* Insercion
+[[id:45e3c0fa-7094-45cd-bc77-72ee93f9ec0a][Troquiter]] por detras del supra
+* Accion
+[[id:129fcb98-baeb-4784-8f83-ddbe345488a3][Rotacion Externa]] del hombro y ligera [[id:19ac5b2b-d732-426e-9a20-c59ba884a53f][Abduccion]] en la que ayuda al [[id:a413bfc1-cf2a-4197-a611-49170be63b91][Supraespinoso]].

@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       ac7e8cbb-9b73-436e-853b-40ff7bf02f2f
+:END:
+#+title: Complejo Mayor
+* Definicion
+  Músculo ancho que ocupa toda la región de la nuca.
+** Origen
+   Apófisis transversas y articulares de [[id:0c396c65-2551-45b3-9681-304f2b9bd69f][D1]], [[id:e00634f3-9210-45b8-ba8a-b3e6c5aec3e3][D2]], [[id:f9438a1f-6795-41f0-b736-5eecf1755d86][D3]], [[id:cb1ea4d4-4f9d-44d5-b946-eb113bf5c959][D4]], [[id:c295d3d3-e607-44fd-9b97-430f66168630][D5]]
+** Insercion
+   Occipital

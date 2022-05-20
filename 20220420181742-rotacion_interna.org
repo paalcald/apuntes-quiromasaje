@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       e324c575-1271-4504-9524-08395fb74de2
+:END:
+#+title: Rotacion Interna
+

@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       05c9b589-fa56-43b0-9a2f-f5458089a503
+:END:
+#+title: Musculo Esplenio
+Musculo alragado y apleanado. Ocupa la region de la nuca y la parte superior del dorso.
+** Esplenio Cabeza
+*** Origen
+    Apofisis espinosas de [[id:699a8ad0-12e0-4a3e-a883-c5461f8acbcc][C3]], [[id:e1e10968-5db3-4d4c-9bd9-48b4475bdbca][C4]], [[id:092ff895-2a9c-467d-bd40-d8a28d55a727][C5]], [[id:2f626e95-23bf-47c6-9a02-344fe02d542d][C6]] y [[id:67326e88-1c65-4c13-92fb-4e71d7b34ba4][C7]].
+*** Insercion
+    [[id:768cecf6-3b27-4770-ba77-f8efb6f4d8bc][Apofisis Mastoidea]], [[id:3ca983c6-3d38-4250-a122-d09ff9936fcd][Hueso Occipital]].

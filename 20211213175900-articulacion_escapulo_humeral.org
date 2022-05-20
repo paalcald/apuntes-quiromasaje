@@ -1,0 +1,20 @@
+* Articulación Escapulo Humeral
+:PROPERTIES:
+:ID:       946b41b2-0a68-4493-8f75-85db8f487cbc
+:END:
+
+** Clasificacion
+  [[id:7ec24805-132e-445e-aba7-4deb917044c8][Enartrosis]] formada por la cabeza del [[id:7efa3338-9ebc-4d09-9dbc-54ebf25cdeb0][Humero]] y la cavidad glenoidea de la [[id:89a3876a-0a75-4118-822c-a510acdcf541][Escapula]].
+  
+** Componentes Activos
+*** [[id:3b0aa96d-06f9-4c43-a7cf-96670079b7c7][Rodete Glenoideo]]
+   
+** Ligamentos
+  
+*** [[id:bfc205ed-841c-481e-abba-d9527935128b][Ligamento Glenohumeral]]
+
+*** [[id:4701c661-21a3-4100-8229-8a24091f193b][Ligamento Acromio-Clavicular]]
+
+*** [[id:1a66aa08-b23f-44b5-8136-52305ed0259a][Ligamento Humeral Transverso]]
+
+*** [[id:91dcefda-8d2b-4f6e-9531-475a15ac4316][Ligamento Coracohumeral]]

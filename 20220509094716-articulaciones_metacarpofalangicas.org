@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       5a726bdb-abe2-48bf-b874-7d1bf39fcff6
+:END:
+#+title: Articulaciones Metacarpofalangicas
+#+filetags: :articulacion:
+* Articulacion Trapecio Metacarpiana
+** Tipo
+[[id:d0e5e09c-6c02-48b5-b190-f5f5e9e7d42f][Articulacion Sellar]]
+* Articulacion Meta

@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       bc2927cd-a748-4cc8-8cab-b74bcc00e55c
+:END:
+#+title: Ligamento Anular Anterior
+#+filetags: :ligamento:
+Se origina en el [[id:f1788f66-6c35-4820-a589-7d61ae57fc4b][Escafoides]] y [[id:c982b78c-0d8a-4574-9f28-3965f2beb232][Trapecio del Carpo]] y se inserta en el [[id:1794914f-1b3f-42e8-80e9-d5f0457ef651][Pisiforme]] y [[id:5db0e8dc-900d-44a0-be05-edfdd307069c][Ganchoso]].
+* Canal Carpiano
+:PROPERTIES:
+:ID:       d9b381ba-7d5f-44d1-8b0f-38d15066d65b
+:ROAM_ALIASES: "Tunel Carpiano"
+:END:
+Pasan por el los siguientes cuerpos:
+- Tendon del [[id:b76ff599-2172-4fd5-a68a-e82fca9b74ef][Flexor Comun Superficial de los Dedos]].
+- Tendon del [[id:beb03d8d-f073-4bc3-b59d-a2cace9092f6][Flexor Largo del Pulgar]].
+* Canal de Guyon
+Con [[id:1794914f-1b3f-42e8-80e9-d5f0457ef651][Pisiforme]].
+

@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       2f626e95-23bf-47c6-9a02-344fe02d542d
+:END:
+#+title: C6
+#+filetags: :hueso:
+

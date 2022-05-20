@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       0779542f-029d-4e50-b40c-67387aa7352c
+:END:
+#+title:Musculo Transverso del Cuello
+* Origen
+  Apofisis Transversa de [[id:cb1ea4d4-4f9d-44d5-b946-eb113bf5c959][D4]] y [[id:c295d3d3-e607-44fd-9b97-430f66168630][D5]].
+* Insercion
+  Apofisis Transversa de [[id:3282a63a-6da2-4706-9a58-56969129e939][C2]], [[id:699a8ad0-12e0-4a3e-a883-c5461f8acbcc][C3]], [[id:e1e10968-5db3-4d4c-9bd9-48b4475bdbca][C4]], [[id:092ff895-2a9c-467d-bd40-d8a28d55a727][C5]] y [[id:2f626e95-23bf-47c6-9a02-344fe02d542d][C6]].

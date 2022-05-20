@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       00c2a5f5-251a-49eb-b1c3-1bf44abf9d90
+:ROAM_ALIASES: C1
+:END:
+#+title: Atlas
+* Descripcion
+Así se llama a C1 la primera [[id:e9be3111-5c1f-4280-8c3a-778628e47ab8][vértebra]] dentro de las [[id:4d377713-8843-41fe-93e4-88306a2b9166][vértebras cervicales]].
+
+* Características Especiales
+

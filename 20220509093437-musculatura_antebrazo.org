@@ -1,0 +1,132 @@
+:PROPERTIES:
+:ID:       15b602f9-c578-407a-a5f7-61e727e3c5c6
+:END:
+#+title: Musculatura Antebrazo
+#+filetags: :musculo:
+* Musculatura Epicondilea
+** Primer Radial
+:PROPERTIES:
+:ID:       83d670cd-faaf-47f4-a933-9605b9dbbde6
+:END:
+*** Origen
+[[id:fdc92f03-22ff-4c39-a4e3-f4008bbd8625][Epicondilo]]
+*** Insercion
+Base del segundo [[id:3b819332-910e-4943-a5de-15b308219ecd][Metacarpiano]].
+*** Accion
+[[id:fea48c0a-0de5-4592-b8d0-c06482e630e4][Extension]] e [[id:6cc53f10-4f2e-4772-8a43-78b8682d00f5][Inclinacion]] [[id:7914be81-6692-4a5a-abd5-11bb4debf5ad][Radial]] de [[id:b9f013ae-2e12-44ba-b049-47adee98acf7][Muñeca]] (antagonista del [[id:072ec2eb-695c-4137-ac95-42e335485a78][Palmar Mayor]])
+** Segundo Radial
+:PROPERTIES:
+:ID:       0a4b2bdb-f8bc-4612-aad9-42e22fa5e849
+:END:
+*** Origen
+[[id:fdc92f03-22ff-4c39-a4e3-f4008bbd8625][Epicondilo]]
+*** Insercion
+Base del tercer [[id:3b819332-910e-4943-a5de-15b308219ecd][Metacarpiano]] (parte posterior)
+*** Accion
+[[id:fea48c0a-0de5-4592-b8d0-c06482e630e4][Extension]] de [[id:b9f013ae-2e12-44ba-b049-47adee98acf7][Muñeca]]. (Acelera moto, antagonista del [[id:0dbe2c1b-f42c-4549-87c9-3117409adca1][Palmar Menor]])
+** Cubital Posterior
+:PROPERTIES:
+:ID:       ee60a709-18d5-4415-8346-3273c0083ec1
+:END:
+*** Origen
+[[id:fdc92f03-22ff-4c39-a4e3-f4008bbd8625][Epicondilo]]
+*** Insercion
+Quinto [[id:3b819332-910e-4943-a5de-15b308219ecd][Metacarpiano]].
+*** Accion
+[[id:fea48c0a-0de5-4592-b8d0-c06482e630e4][Extension]] e [[id:6cc53f10-4f2e-4772-8a43-78b8682d00f5][Inclinacion]] [[id:e228df52-bcb2-44b9-ae25-dfc050772b58][Cubital]] de [[id:b9f013ae-2e12-44ba-b049-47adee98acf7][Muñeca]].
+** Extensor Comun de los dedos
+:PROPERTIES:
+:ID:       bd6b0e1e-dbc7-47b4-9c2a-78c7cb6efecc
+:END:
+*** Origen
+[[id:fdc92f03-22ff-4c39-a4e3-f4008bbd8625][Epicondilo]]
+*** Insercion
+Forma 4 tendones terminales (para dedos 2-5) cada tendón se dirige a un dedo y termina dividido en 3 partes en las falanges. (el pulgar va a parte)
+*** Accion
+[[id:fea48c0a-0de5-4592-b8d0-c06482e630e4][Extension]] de [[id:b9f013ae-2e12-44ba-b049-47adee98acf7][Muñeca]], [[id:fea48c0a-0de5-4592-b8d0-c06482e630e4][Extension]] de [[id:5a726bdb-abe2-48bf-b874-7d1bf39fcff6][Articulaciones Metacarpofalangicas]].
+* Musculatura Supinadora
+** Supinador Largo
+:PROPERTIES:
+:ID:       f73a8dc1-05a7-405b-8625-a739fbda6456
+:ROAM_ALIASES: Braquiorradial
+:END:
+*** Origen
+Borde Externo del [[id:7efa3338-9ebc-4d09-9dbc-54ebf25cdeb0][Humero]].
+*** Insercion
+[[id:e28eac60-3567-4bcf-a189-1dc36ac2c82f][Apofisis Estiloides de Radio]].
+*** Accion
+[[id:5e048803-62b7-4417-9254-aeb5264c76cd][Supinacion]], si parte de una [[id:0b3ed1d1-b9c3-4c3c-8b00-a9a9078275bb][Pronacion]], y ayuda en la [[id:62ca8d4a-d747-466b-971f-988bc3ce5693][Flexion]] del [[id:e4344716-aa78-43be-9c1e-048458438b32][Codo]], por que antes no tiene palanca básicamentea.
+** Supinador Corto
+:PROPERTIES:
+:ID:       16ef45b0-6d80-4fce-b995-74bea15c4f66
+:END:
+*** Origen
+En dos planos a nivel del [[id:e228df52-bcb2-44b9-ae25-dfc050772b58][Cubito]] y [[id:fdc92f03-22ff-4c39-a4e3-f4008bbd8625][Epicondilo]], uno superficial y otro profundo, es raro por que se enrrolla
+*** Insercion
+Se enrrolla alrededor del [[id:7914be81-6692-4a5a-abd5-11bb4debf5ad][Radio]] para ensertarse en el cuello y cara externa del [[id:7914be81-6692-4a5a-abd5-11bb4debf5ad][Radio]].
+*** Accion
+[[id:5e048803-62b7-4417-9254-aeb5264c76cd][Supinacion]] del Antebrazo.
+* Musculatura Pronadora
+** Pronador Redondo
+:PROPERTIES:
+:ID:       07508f90-face-4570-81fe-bfffee36f996
+:END:
+*** Origen
+[[id:7eb7336c-f3dd-4432-888d-77f7fd0d8a82][Epitroclea]]
+*** Insercion
+Cara externa del [[id:7914be81-6692-4a5a-abd5-11bb4debf5ad][Radio]]
+*** Accion
+[[id:0b3ed1d1-b9c3-4c3c-8b00-a9a9078275bb][Pronacion]] del antebrazo y ex auxiliar en la [[id:62ca8d4a-d747-466b-971f-988bc3ce5693][Flexion]] de [[id:e4344716-aa78-43be-9c1e-048458438b32][Codo]].
+** Pronador Cuadrado
+:PROPERTIES:
+:ID:       99316e1a-293c-40ba-ab5b-582d3a0a61f7
+:END:
+*** Origen
+[[id:e988465e-8634-4277-b200-2e6e8e131d32][Epifisis Distal del Cubito]].
+*** Insercion
+[[id:c1131228-ff5b-4370-b20c-6b16d16c524c][Epifisis Distal del Radio]].
+*** Accion
+[[id:0b3ed1d1-b9c3-4c3c-8b00-a9a9078275bb][Pronacion]].
+* Musculatura Epitroclear
+Conjunto de músculos que se originan en la [[id:7eb7336c-f3dd-4432-888d-77f7fd0d8a82][Epitroclea]] [[id:7efa3338-9ebc-4d09-9dbc-54ebf25cdeb0][Humeral]]. La lesion de estos músculos se denomina, se relaciona con lesiones del [[id:7aa0fd3d-4a6f-4d77-816c-98fd47003ef4][Biceps Braquial]] y se denomina [[id:ef48c1a4-e143-4d22-8a2a-218cf9997ad7][Epitrocleitis]].
+** Palmar Mayor
+:PROPERTIES:
+:ID:       072ec2eb-695c-4137-ac95-42e335485a78
+:END:
+*** Origen
+[[id:7eb7336c-f3dd-4432-888d-77f7fd0d8a82][Epitroclea]]
+*** Insercion
+Base del segundo [[id:3b819332-910e-4943-a5de-15b308219ecd][Metacarpiano]]. (antagonista del [[id:83d670cd-faaf-47f4-a933-9605b9dbbde6][Primer Radial]])
+*** Accion
+[[id:62ca8d4a-d747-466b-971f-988bc3ce5693][Flexion]] de [[id:b9f013ae-2e12-44ba-b049-47adee98acf7][Muñeca]] e [[id:6cc53f10-4f2e-4772-8a43-78b8682d00f5][Inclinacion]] [[id:7914be81-6692-4a5a-abd5-11bb4debf5ad][Radial]].
+** Palmar Menor
+:PROPERTIES:
+:ID:       0dbe2c1b-f42c-4549-87c9-3117409adca1
+:END:
+Se llama menor por tener menor vientre muscular, pero es más largo.
+*** Origen
+[[id:7eb7336c-f3dd-4432-888d-77f7fd0d8a82][Epitroclea]]
+*** Insercion
+[[id:417389c6-62f8-4a09-832f-da1d347fd794][Ligamento Anular del Radio]] y [[id:0fddae0d-ddf1-49b1-8da8-a4a183309b29][Aponeurosis Palmar]] (hay gente que aquí tiene dos tendones)
+*** Accion
+[[id:62ca8d4a-d747-466b-971f-988bc3ce5693][Flexion]] de [[id:b9f013ae-2e12-44ba-b049-47adee98acf7][Muñeca]] (antagonista del [[id:0a4b2bdb-f8bc-4612-aad9-42e22fa5e849][Segundo Radial]])
+** Cubital Anterior
+:PROPERTIES:
+:ID:       d3a54300-2aec-416d-9f4b-6dd8077e4995
+:END:
+*** Origen
+[[id:7eb7336c-f3dd-4432-888d-77f7fd0d8a82][Epitroclea]] y [[id:b9d1a99d-3bd9-4c4f-af9c-c44864f42db3][Olecranon]].
+*** Insercion
+Fibras en [[id:6882269e-8cf0-4d9b-bbc8-db052bd09af3][Hueso Pisiforme]] y otras fibras en el gancho del [[id:d99ab4b5-cbee-43fe-8e72-bd9c37a90292][Hueso Ganchoso]].
+*** Accion
+[[id:62ca8d4a-d747-466b-971f-988bc3ce5693][Flexion]] de [[id:b9f013ae-2e12-44ba-b049-47adee98acf7][Muñeca]] y [[id:94d76790-a001-4945-84b1-ebe50fa79e99][Desviacion Cubital]].
+** Flexor Comun Superficial de los Dedos
+:PROPERTIES:
+:ID:       b76ff599-2172-4fd5-a68a-e82fca9b74ef
+:END:
+*** Origen
+[[id:7eb7336c-f3dd-4432-888d-77f7fd0d8a82][Epitroclea]], [[id:9e40718e-71b2-492e-af65-7d2f197495ef][Apofisis Coronoides del Cubito]] y borde anterior del [[id:7914be81-6692-4a5a-abd5-11bb4debf5ad][Radio]].
+*** Insercion
+A ambos lados de los bordes laterales de las 2as [[id:70260789-d111-4e7e-b824-0018e136289b][Falanges]] de los dedos (2-5)
+*** Accion
+[[id:62ca8d4a-d747-466b-971f-988bc3ce5693][Flexion]] de los [[id:1a8c0b87-346a-4d9e-b8b5-11082db90568][Dedos]] y [[id:b9f013ae-2e12-44ba-b049-47adee98acf7][Muñeca]].

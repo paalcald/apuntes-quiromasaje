@@ -1,0 +1,38 @@
+:PROPERTIES:
+:ID:       192ba288-0e3f-4071-a479-54f1cc505458
+:END:
+#+title: Suturas Craneales
+#+filetags: :hueso:
+Son las uniones que forman los huesos del craneo entre si, se mueven con una amplitud de 1 a 2 mm aprox.
+* Sutura Frontal
+:PROPERTIES:
+:ID:       6b163864-d44e-4f55-ad69-658d5181bdba
+:END:
+Entre el [[id:fe1b821d-7f65-465f-9927-051482cfe11b][Frontal]] y los dos [[id:97c4ec6c-d04b-4f30-b915-640e8a72169e][Parietales]], se junta con la sutura sagital en el 
+* Sutura Sagital
+:PROPERTIES:
+:ID:       2bd4f87b-f4da-4c14-9935-b50d228c4453
+:END:
+Divide los dos [[id:97c4ec6c-d04b-4f30-b915-640e8a72169e][Parietales]].
+* Sutura Lamboidea
+:PROPERTIES:
+:ID:       33e78f6b-c582-42c4-b0bd-0888d4d8ef23
+:END:
+Entre el [[id:940d510d-a148-4d0a-ba73-82f5bc30c11f][Occipital]] y los dos [[id:97c4ec6c-d04b-4f30-b915-640e8a72169e][Parietales]].
+* Puntos de Union
+** Bregma
+:PROPERTIES:
+:ID:       55916526-c8cc-4fc9-a895-73638d8900f8
+:END:
+Punto de unión entre las 
+** Asterion
+:PROPERTIES:
+:ID:       2764b947-d4ca-42c6-aad5-b590efbfec96
+:END:
+* Fontanelas
+- En el recien nacido las suturas craneales todavia no estan unidas, y los espacios se rellenan con tegido conectivo fibroso.
+- Aquellos espacios donde articulan más de 2 superficies óseas se conocen como fontanelas.
+- 2 impares: anterior y posterior.
+- 2 pares: Anterolateral([[id:f31bd674-8a22-48fa-95b0-cc4c737e0c81][Esfenoidal]]) y Posterolateral([[id:42b9883a-277e-4c52-8c06-6caba50f4b64][Mastoidea]]).
+- Estas se empiezan a soldar a los 6 meses aprox y a los 5-7  años hay conformación perfecta y completa de estos huesos.
+- Se conforma por diferentes comportamientos i.e. comer, succión ...

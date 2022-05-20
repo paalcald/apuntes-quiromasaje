@@ -1,0 +1,70 @@
+:PROPERTIES:
+:ID:       7efa3338-9ebc-4d09-9dbc-54ebf25cdeb0
+:END:
+#+title: Humero
+#+filetags: :hueso:
+* Descripcion Anatomica
+** Epifisis Proximal del Humero
+:PROPERTIES:
+:ID:       b6282dad-f0b7-490c-9fb1-d3ade146c553
+:END:
+*** Cabeza del Humero
+:PROPERTIES:
+:ID:       357950c6-edf5-4bc6-ae16-2d8014875d8a
+:END:
+*** Troquiter
+:PROPERTIES:
+:ID:       9735006b-2a20-4b1d-92f1-d48eb6d17624
+:ROAM_ALIASES: "Tuberculo Mayor del Humero"
+:END:
+Posee una disposicion de direccion posterolateral y presenta tres impresiones oseas, la mayor corresponde a la insercion del musculo [[id:a413bfc1-cf2a-4197-a611-49170be63b91][Supraespinoso]], la media al [[id:1c3c2990-35bd-4678-973e-90aecf24699d][Infraespinoso]] y la menor al [[id:07d8e3b0-5d98-4f4a-b3fb-33066a492ced][Redondo Menor]]. Se continua hacia distal con la cresta del tuberculo mayor donde se inserta el [[id:0f7ccc7c-f0c0-4a89-acae-fd1500f71f48][Pectoral Mayor]].
+*** Troquin
+:PROPERTIES:
+:ID:       447ef0f4-c226-4700-8783-39d716f7f70b
+:ROAM_ALIASES: "Tuberculo Menor del Humero"
+:END:
+Posee una disposicion hacia anterior y sirve para la insercion del [[id:771321f5-df77-42b3-8c38-df86051f82e0][Subescapular]]. Continua hacia distal con la cresta del tuberculo menor donde se insertan [[id:8b45d0cb-98c6-43df-ad17-d476f2f92945][Redondo Mayor]] y [[id:651cb4d9-ecf7-45b6-b520-ae6b251b010b][Dorsal Ancho]].
+*** Corredera Bicipital
+:PROPERTIES:
+:ID:       c23728fc-5d08-45cd-ac42-efd2f3076bbb
+:ROAM_ALIASES: "Surco Intertubercular"
+:END:
+Es un espacio que se encuentra entre ambos tuberculos que hace de corredera para el paso del tendon de la cabeza larga del musculo [[id:7aa0fd3d-4a6f-4d77-816c-98fd47003ef4][Biceps]], tapizado por el [[id:e4cb5a05-6162-4ba5-8e8d-a364f863b8ca][Ligamento de Gordon-Brodie]], en su labio externo se inserta el [[id:092f3e09-5db6-4220-a19d-8bcf8664842b][Tendon Cuadrilatero]] del [[id:0f7ccc7c-f0c0-4a89-acae-fd1500f71f48][Pectoral Mayor]], en su labio interno se insertan el [[id:8b45d0cb-98c6-43df-ad17-d476f2f92945][Redondo Mayor]] y el [[id:651cb4d9-ecf7-45b6-b520-ae6b251b010b][Dorsal Ancho]], que se consideran Troquinianos pese a esto.
+** Epifisis Distal del Humero
+:PROPERTIES:
+:ID:       c861cf10-5f25-4d11-b042-689791cd61fe
+:END:
+Es ancha y curvada hacia delante "paleta humeral" posee forma triangular.
+*** Epitroclea
+:PROPERTIES:
+:ID:       7eb7336c-f3dd-4432-888d-77f7fd0d8a82
+:END:
+Mas interior, no se ve desde la vista posterior. Asociada a la troclea que articula con el [[id:e228df52-bcb2-44b9-ae25-dfc050772b58][Cubito]].
+*** Troclea Humeral
+:PROPERTIES:
+:ID:       1dddcc0d-aa3d-40bf-82b3-cadd4d20d7a1
+:END:
+*** Epicondilo
+:PROPERTIES:
+:ID:       fdc92f03-22ff-4c39-a4e3-f4008bbd8625
+:END:
+(Por delante)Mas exterior. Justo al lado del epicondilo se situa el condilo con el que articulamos con el codo, dota al codo de dos grados de libertad, [[id:0d05a141-f797-4f87-aaaf-b0151f6c3379][Rotacion]] y [[id:62ca8d4a-d747-466b-971f-988bc3ce5693][Flexion]]/[[id:fea48c0a-0de5-4592-b8d0-c06482e630e4][Extension]].
+*** Condilo Humeral
+:PROPERTIES:
+:ID:       364e5c12-844f-43fc-8603-2d1677bd6850
+:END:
+*** Fosa Coronoidea
+:PROPERTIES:
+:ID:       093e503d-ea20-4d78-9519-43f0e4c1a215
+:END:
+Por delante entre la epitroclea y el epicondilo, es la fosa donde se alberga la apofisis coronoides del [[id:e228df52-bcb2-44b9-ae25-dfc050772b58][Cubito]].
+*** Fosa Olecraniana
+:PROPERTIES:
+:ID:       f5aa0b40-c932-4f11-ab07-4db82a2c265f
+:END:
+Fosa donde se alberga el [[id:b9d1a99d-3bd9-4c4f-af9c-c44864f42db3][Olecranon]], por detras del humero.
+
+* Inserciones
+
+* Articulaciones
+

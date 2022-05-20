@@ -1,0 +1,33 @@
+:PROPERTIES:
+:ID:       ee638c8d-133c-4dba-aa59-324438d5c736
+:END:
+#+title: Trapecio
+* Definicion
+  Musculo superficial de la espada que ocupa la región cervical y dorsal
+* Origen
+  Linea curva [[id:3ca983c6-3d38-4250-a122-d09ff9936fcd][Occipital]] superior e inferior y apófisis espinosas de [[id:4d377713-8843-41fe-93e4-88306a2b9166][Vertebras Cervicales]] y [[id:5fe7f4a1-7ab1-4bfd-af5c-a1dbe6355321][Vertebras Dorsales]].
+* Insercion
+** Porción superior (descendiente)
+   Tercio externo de la [[id:ca3e88d3-934f-4dd4-8da0-b8982cf8c633][clavicula]].
+** Porcion media (transversa)
+   Se insertan en el acromion y la espina de la [[id:89a3876a-0a75-4118-822c-a510acdcf541][Escapula]].
+** Porcion inferior (ascendente)
+   Terminan en una fascia triangular que se inseta en la espina de la [[id:89a3876a-0a75-4118-822c-a510acdcf541][Escapula]].
+* Acciones
+** Conjunta
+*** Origen Fijo
+    Fijacion de la [[id:89a3876a-0a75-4118-822c-a510acdcf541][Escapula]] (junto con el [[id:95af276e-ac05-4381-a3e3-e916871c88cc][Romboides]]).
+*** Insercion Fija
+    [[id:fea48c0a-0de5-4592-b8d0-c06482e630e4][Extension]], [[id:1a9f18ba-0917-44c5-a93b-0b39e58461a6][Inclinacion Homolateral]], [[id:f6c25bd5-7eef-4244-9b1d-79bc3dcdfe1f][Rotacion Contralateral]] de [[id:4d377713-8843-41fe-93e4-88306a2b9166][Columna Cervical]].
+** Fibras Superiores
+*** Origen Fijo
+    - Elevacion de [[id:89a3876a-0a75-4118-822c-a510acdcf541][Escapula]].
+    - Evita el descenso del muñon del [[id:2e31d7b1-f544-4f43-a17c-863cf7793351][Hombro]] cuando soporta peso.
+    - [[id:1f23dc12-c094-430b-92d2-a5f66381784d][Campaneo]] Externo de [[id:89a3876a-0a75-4118-822c-a510acdcf541][Escapula]].
+*** Insercion Fija
+    - [[id:fea48c0a-0de5-4592-b8d0-c06482e630e4][Extension]] del [[id:08b2fa9e-eab9-4425-b9ee-864c19c1eeea][Cuello]] y [[id:c53713c6-4c74-4fd9-91da-80dc1f06f0d8][Cabeza]].
+    - [[id:1a9f18ba-0917-44c5-a93b-0b39e58461a6][Inclinacion Homolateral]] y [[id:f6c25bd5-7eef-4244-9b1d-79bc3dcdfe1f][Rotacion Contralateral]] de [[id:4d377713-8843-41fe-93e4-88306a2b9166][Columna Cervical]].
+** Fibras Medias
+   - [[id:5f424bd3-4d85-4d7c-b5d1-580d2aa3fc82][Aduccion]] de [[id:89a3876a-0a75-4118-822c-a510acdcf541][Escapula]].
+** Fibras Inferiores
+   - Descenso de [[id:89a3876a-0a75-4118-822c-a510acdcf541][Escapula]].

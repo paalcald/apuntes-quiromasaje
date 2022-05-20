@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       651cb4d9-ecf7-45b6-b520-ae6b251b010b
+:END:
+#+title: Dorsal Ancho
+* Descripcion
+  Musculo grande y potente
+* Origen
+  - Apofisis espinosas de [[id:5f4984b7-c4f4-4790-afe4-b4efb77bbd57][D7]], [[id:360e05ca-68f3-4861-b4f2-6f9eb0bd7f91][D8]], [[id:8ffdf1a1-2011-42ef-9db4-388d284bb98c][D9]], [[id:c4e930f1-bb92-4b0e-b508-b3a4eb2f02d3][D10]], [[id:3fa4a511-394f-4f0e-9582-0084d704768d][D11]], [[id:cf3c213c-523c-42b1-81ad-0d5d68c27210][D12]]
+  - [[id:1af5c304-939b-4f65-9fcd-1995b43a64e1][Vertebras Lumbares]].
+  - [[id:707cfab6-a558-424c-8a62-bb9355823256][Cresta Sacra]]
+  - [[id:f7fc03fd-25b9-43cf-b28d-e6423c10360f][Cresta Iliaca]]
+  - 4 ultimas [[id:397289b2-ed87-4ddc-af39-42f12e526fd6][Costillas]] ([[id:facb6a9a-0ae9-45f9-91d1-b16453799af5][9a Costilla]], [[id:168bad3f-bdf1-4db1-b3e3-f0cbb6794795][10a Costilla]], [[id:7807ef75-3dc4-470a-b7d4-03ebaf98e85b][11a Costilla]] y [[id:f4863476-34dd-43fc-a8ac-4d669450c10e][12a Costilla]]).
+* Insercion
+  [[id:88cb919d-1128-4939-9a65-ecff1e5f060c][Corredera Bicipital]] del [[id:7efa3338-9ebc-4d09-9dbc-54ebf25cdeb0][Humero]].
+* Accion
+** Origen Fijo
+   - [[id:0d05a141-f797-4f87-aaaf-b0151f6c3379][Rotacion]] interna
+   - [[id:5f424bd3-4d85-4d7c-b5d1-580d2aa3fc82][Aduccion]] de [[id:2e31d7b1-f544-4f43-a17c-863cf7793351][Hombro]].
+   - [[id:474a9210-7758-43df-b426-9adc078dc982][Retropulsion]] de [[id:2e31d7b1-f544-4f43-a17c-863cf7793351][Hombro]].
+** Insercion Fija
+   - Sustentador del [[id:3648a3b9-80ee-4097-b027-eefc2b3b634f][Tronco]].
+** Accion Bilateral
+   - [[id:fea48c0a-0de5-4592-b8d0-c06482e630e4][Extension]] de [[id:3ff3557a-7dac-4433-9a72-c780f2cbbcc1][Columna]] en la region [[id:5fe7f4a1-7ab1-4bfd-af5c-a1dbe6355321][Dorsal]] y [[id:1af5c304-939b-4f65-9fcd-1995b43a64e1][Lumbar]].

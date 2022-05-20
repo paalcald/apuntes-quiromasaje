@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       50e311fc-3cce-417e-a182-d6eb1811149a
+:END:
+#+title: Huesos del Metacarpo
+#+filetags: :hueso:
+

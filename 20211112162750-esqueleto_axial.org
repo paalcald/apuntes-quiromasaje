@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       b80c76aa-5587-4078-a0ea-19b82fb7bbed
+:END:
+#+title: Esqueleto Axial
+* Anatomía
+El esqueleto axial consiste en 80 huesos a lo largo del eje central del cuerpo humano.
+
+** Subclasificaciones
+
+*** Craneo
+
+*** Huesos Auditivos
+
+*** Hueso Hioides
+
+*** Reja Costal
+
+*** Esternon
+
+*** [[id:3ff3557a-7dac-4433-9a72-c780f2cbbcc1][Columna Vertebral]]
+La columna vertebral se encutra ubicada en la porción posterior del tronco y está formada por la sucesión de unos elementos óseos, llamados vértebras, vuya constitución fundamental es igual para todos ellos, y de una serie de discos cartilaginosos que los separan.
+

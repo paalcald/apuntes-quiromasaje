@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       3648a3b9-80ee-4097-b027-eefc2b3b634f
+:END:
+#+title: Tronco
+

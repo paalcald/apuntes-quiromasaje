@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       05837300-75ad-41dd-90cf-d6c32b2159ac
+:END:
+#+title: Articulaciones de las Costillas
+#+filetags: :articulacion:
+* Articulación Costo Esternal
+:PROPERTIES:
+:ID:       c2cab714-c4a8-4468-a1b1-c3b2fcae2313
+:END:
+
+* Articulación Costo Vertebral
+:PROPERTIES:
+:ID:       608d88b8-f82a-403b-b096-53057ffcb01c
+:END:

@@ -1,0 +1,66 @@
+:PROPERTIES:
+:ID:       397289b2-ed87-4ddc-af39-42f12e526fd6
+:END:
+#+title: Costillas
+#+filetags: :hueso:
+Hueso alargado, aplanado y curvo. Formadas por:
++ Extremidad posterior (articula con las vértebras)
+  - Cabeza
+  - Cuello
+  - Tubérculo
++ Cuerpo
++ Extremidad anterior, que corresponde al cartílago costal.  
+* Costillas Verdaderas
+Tienen su propio cartílago costal para unirse al esternón.
+** 1a Costilla
+:PROPERTIES:
+:ID:       8936eb16-46a4-427a-ac2c-b4e89a2bb329
+:END:
+** 2a Costilla
+:PROPERTIES:
+:ID:       e79c267a-fdd1-48b4-b219-dba8303377ee
+:END:
+** 3a Costilla
+:PROPERTIES:
+:ID:       932094d1-f849-4449-ae7d-12971c3eeacd
+:END:
+** 4a Costilla
+:PROPERTIES:
+:ID:       7cb82592-24eb-4c4d-8e4d-3337efa76176
+:END:
+** 5a Costilla
+:PROPERTIES:
+:ID:       ade9483d-a573-420f-8118-a96e3d75f5bd
+:END:
+** 6a Costilla
+:PROPERTIES:
+:ID:       860d3aa4-341d-4d86-9fc2-f8a899530ab4
+:END:
+** 7a Costilla
+:PROPERTIES:
+:ID:       2f0ad770-dec6-432f-9721-3173824c0c4a
+:END:
+* Costillas Falsas
+Comparten un mismo cartílago costal.
+** 8a Costilla
+:PROPERTIES:
+:ID:       593a185d-0d66-4723-9daf-5d3d9c1e903c
+:END:
+** 9a Costilla
+:PROPERTIES:
+:ID:       107832cf-1e75-41ec-b71f-1d753d913366
+:END:
+** 10a Costilla
+:PROPERTIES:
+:ID:       f2d54764-b1d3-4f00-803b-b2e39ac08b12
+:END:
+* Costillas Flotantes
+No se unen al esternón.
+** 11a Costilla
+:PROPERTIES:
+:ID:       b5f48bbf-b18a-4a46-bb0f-241331998521
+:END:
+** 12a Costilla
+:PROPERTIES:
+:ID:       a415dc5c-c673-48ba-92e8-409bc4c706aa
+:END:

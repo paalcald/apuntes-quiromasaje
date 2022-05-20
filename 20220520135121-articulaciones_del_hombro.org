@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       569da7ef-19ed-4d9e-b746-5e25cf4857f2
+:END:
+#+title: Articulaciones del Hombro
+#+filetags: :articulacion:
+* Articulación Escápulo Humeral
+:PROPERTIES:
+:ID:       7ddf1bf1-05bf-46fd-9c37-225fcc86006d
+:END:

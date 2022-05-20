@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       745661f6-90db-4abd-9053-32c949b0d1ef
+:END:
+#+title: Articulacion Escapulo-Humeral
+#+filetags: :articulacion:
+* Clasificacion
+- Articulacion tipo [[id:7ec24805-132e-445e-aba7-4deb917044c8][Enartrosis]] formada por la [[id:357950c6-edf5-4bc6-ae16-2d8014875d8a][Cabeza Humeral]] y 
+- Para posibilidar u
+* Rodete Glenoideo
+Una bursa para evitar roces por asi decirlo, tiene una apertura en la parte superior para dejar pasar al tendon de la cabeza larga del [[id:7aa0fd3d-4a6f-4d77-816c-98fd47003ef4][Biceps]].
+* Ligamentos
+** Ligamentos Gleno-Humerales
+Son 3, de la cavidad glenoidea al xuello anatomico del [[id:7efa3338-9ebc-4d09-9dbc-54ebf25cdeb0][Humero]].
+** Ligamentos Coraco-Humerales
+Son los que van a [[id:9735006b-2a20-4b1d-92f1-d48eb6d17624][Troquiter]] y a [[id:447ef0f4-c226-4700-8783-39d716f7f70b][Troquin]] desde la [[id:ab4af034-8c2e-4c78-a9f6-cec1860b1017][Apofisis Coracoides]].
+** Ligamento Coraco-Acromial
+

@@ -1,0 +1,40 @@
+:PROPERTIES:
+:ID:       e2973e56-c14d-43f6-b07f-681e8ec754ab
+:END:
+#+title: Manguito de los Rotadores
+#+filetags: :musculo:
+Grupo formado por cuatro músculos que tienen origen en la [[id:54bcadd4-fb90-47ca-8cc4-a975da2e4315][Escápula]] e inserción en la [[id:b6282dad-f0b7-490c-9fb1-d3ade146c553][Epifisis Proximal del Húmero]].
+Comparten una función, hacen la acción de ligamentos y protegen al hombro.
+Además imprimen rotación a la articulación del hombro ya sea interna o externa.
+* Subescapular
+Músculo profundo de la [[id:7ddf1bf1-05bf-46fd-9c37-225fcc86006d][Articulación Escápulo Humeral]]
+** Origen
+[[id:068721a0-f7f8-48b7-9b90-fed940425b7f][Fosa Subescapular]].
+** Inserción
+[[id:447ef0f4-c226-4700-8783-39d716f7f70b][Troquín]].
+** Acción
+Es el principal rotador interno del hombro, también realiza [[id:5f424bd3-4d85-4d7c-b5d1-580d2aa3fc82][Aducción]].
+* Supraespinoso
+Músculo profundo de la [[id:7ddf1bf1-05bf-46fd-9c37-225fcc86006d][Articulación Escápulo Humeral]].
+** Origen
+[[id:0280e7db-6607-4af4-8d15-6712c815ad68][Fosa Supraespinosa de la Escápula]]. Origina un tendón que pasa por debajo de la bóbeda formada por el [[id:b2325f89-a0b5-4066-9240-58fee8ec6372][Acromión]], la [[id:ab4af034-8c2e-4c78-a9f6-cec1860b1017][Apófisis Coracoides]] y el ligamento que los une.
+** Inserción
+[[id:9735006b-2a20-4b1d-92f1-d48eb6d17624][Troquíter]]
+** Acción
+[[id:19ac5b2b-d732-426e-9a20-c59ba884a53f][Abducción]]
+* Infraespinoso
+Músculo profundo de la [[id:7ddf1bf1-05bf-46fd-9c37-225fcc86006d][Articulación Escápulo Humeral]]
+** Origen
+[[id:21145b5e-70ef-4cab-a81a-737940b4777b][Fosa Infraespinosa de la Escápula]].
+** Inserción
+[[id:9735006b-2a20-4b1d-92f1-d48eb6d17624][Troquíter]], por detrás del Supraespinoso.
+** Acción
+[[id:0d05a141-f797-4f87-aaaf-b0151f6c3379][Rotación]] externa del hombro y ligera [[id:19ac5b2b-d732-426e-9a20-c59ba884a53f][Abducción]].
+* Redondo Menor
+Músculo profundo de la [[id:7ddf1bf1-05bf-46fd-9c37-225fcc86006d][Articulación Escápulo Humeral]]. Es el más pequeño del manguito.
+** Origen
+[[id:21145b5e-70ef-4cab-a81a-737940b4777b][Fosa Infraespinosa de la Escápula]] en el [[id:9440c676-ae09-4061-8e06-993898f1e86c][Borde Externo de la Escápula]].
+** Inserción
+[[id:9735006b-2a20-4b1d-92f1-d48eb6d17624][Troquíter]] por detrás del Infraespinoso.
+** Acción
+[[id:0d05a141-f797-4f87-aaaf-b0151f6c3379][Rotación]] externa del hombro y ligera [[id:19ac5b2b-d732-426e-9a20-c59ba884a53f][Abducción]].

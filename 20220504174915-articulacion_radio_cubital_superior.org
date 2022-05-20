@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       f629f104-de6d-47c6-a89e-6b15a0513c26
+:END:
+#+title: Articulacion Radio Cubital Superior
+#+filetags: :articulacion:
+* Tipo
+[[id:3cfe5ac7-9166-4da9-83d8-f92064a8fd03][Articulacion Trocoide]]

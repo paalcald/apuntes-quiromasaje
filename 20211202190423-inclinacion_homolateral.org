@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       1a9f18ba-0917-44c5-a93b-0b39e58461a6
+:END:
+#+title: Inclinacion Homolateral
+

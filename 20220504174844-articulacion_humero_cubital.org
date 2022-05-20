@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       5bc1f994-d8ee-432f-9dcc-99522ad06e9a
+:END:
+#+title: Articulacion Humero Cubital
+#+filetags: :articulacion:
+* Tipo
+[[id:33b14550-a284-47c8-a871-91e81507639b][Articulacion Troclear]]

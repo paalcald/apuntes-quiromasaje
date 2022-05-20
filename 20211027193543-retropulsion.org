@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       474a9210-7758-43df-b426-9adc078dc982
+:END:
+#+title: Retropulsion
+desplazamiento de la cabeza del humero hacia la extension i.e. pecho palomo
+
+Solo  se da en la siguiente articulacion
+* [[id:2e31d7b1-f544-4f43-a17c-863cf7793351][Hombro]]

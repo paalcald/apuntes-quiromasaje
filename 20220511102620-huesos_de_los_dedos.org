@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       153a33a8-a765-49ac-9140-69ff7d6ebca0
+:END:
+#+title: Huesos de los Dedos
+#+filetags: :hueso:
+* Falanges
+** Partes
+*** Falange Proximal
+:PROPERTIES:
+:ID:       0270d549-530f-4f0d-adaf-bd64163cff1e
+:ROAM_ALIASES: "1a Falange"
+:END:
+*** Falange Media
+:PROPERTIES:
+:ID:       7a561c30-1e74-4b35-99ce-f38e04847399
+:ROAM_ALIASES: "2a Falange"
+:END:
+*** Falange Distal
+:PROPERTIES:
+:ID:       6cd63fab-7018-4741-950a-467902d04fdd
+:ROAM_ALIASES: "3a Falange"
+:END:

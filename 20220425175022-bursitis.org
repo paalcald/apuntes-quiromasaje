@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       ec779ebd-4f3a-4415-8b92-14555c891b58
+:END:
+#+title: Bursitis
+Inflamacion en las Bursas

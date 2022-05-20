@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       67326e88-1c65-4c13-92fb-4e71d7b34ba4
+:END:
+#+title: C7
+#+filetags: :hueso:
+

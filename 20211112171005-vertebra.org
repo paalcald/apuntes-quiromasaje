@@ -1,0 +1,36 @@
+:PROPERTIES:
+:ID:       e9be3111-5c1f-4280-8c3a-778628e47ab8
+:END:
+#+title: Vertebra
+* Definicion
+[[id:5962a86d-ea5e-4b56-852b-c566b1c3da1c][Hueso]] constituyente de la [[id:3ff3557a-7dac-4433-9a72-c780f2cbbcc1][Columna Vertebral]], es un hueso corto, impar y simétrico, situado ventralmente con relación al sistema nervioso y dorsalmente al aparato digetivo, supone un estabón de la columna vertebral.
+
+* Características Generales
+Esta formada por tres partes
+[[file:PartesVertebra.png]]
+
+** Parte anterior o cuerpo vertebral
+El cuerpo vertebral correspone a la parte anterior de la vértebra. Cumple la función estática de la columna, la función de soporte y la de resistencia. El cuerpo vertebral se encuentra formado por tejido öseo esponjoso, rodeado por un revorde de tejido óseo compacto y contiene la médula ósea. Va aumentando de tamaño y groso a medida que vamos descendiento en la columna.
+
+** Posterior o arco
+Está formado por dos porciones simétricas que se dirigen dorsalmente a partir del cuerpo vertebral, y que se unen entre sí en la línea mediodorsal, donde se prolongan por una larga apófisis espinosa. Los arcos vertebrales, aplanados de fuera adentro, presentan una escotadura poco pronunciada en su borde superior, y otra muy acusada en su borde inferior, lo que da a esta porción de la vértebra y un aspecto estrecho, que le ha asignado el nombre de pedículo.
+
+Entre las escotaduras anteriormente citadas, quedan circunscritos unos orificios llamados agujeros de conjunción, por los cuales se comunica el [[id:86f63d62-d98f-4cf8-9e5f-d4b5eea513a1][conducto raquídeo]] con el exterior y pasan los nervios del mismo nombre. La porción dorsal, con relación al pedículo, es mas ancha y se llama lámina.
+
+Su parte anterior envía dos prologaciones craneales y dos caudales, destinadas a articularse con las vértebras vecinas: son las apófisis articulares superior e inferior, en donde se ven las carillas articulares correspondientes.
+
+Entre las apófisis articulares se ven salir las apófisis transversas.
+
+** Intermedia u orificio vertebral
+Se encuentra la médula.
+
+* Subclasificaciones
+
+** [[id:4d377713-8843-41fe-93e4-88306a2b9166][Vertebras Cervicales]]
+
+
+
+
+
+
+

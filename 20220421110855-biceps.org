@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       7aa0fd3d-4a6f-4d77-816c-98fd47003ef4
+:END:
+#+title: Biceps Braquial
+#+filetags: :musculo:
+Es un [[id:08b189ac-6bd9-4284-aee1-b53b82f67c92][Musculo]] del brazo que mas adelante describire bien.

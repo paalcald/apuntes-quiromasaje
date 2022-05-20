@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       e55fd2ae-0689-43a2-9619-40b9e7b51432
+:END:
+#+title: Masas Musculares de la Mano
+#+filetags: :musculo:
+* Eminencia Tenar
+Región de la mano que constituye la base del pulgar y formada por la musculatura intrínseca del pulgar.
+* Eminencia Hipotenar
+Región de la mano situada en el borde cubital, formada por la musculatura del 5o dedo.

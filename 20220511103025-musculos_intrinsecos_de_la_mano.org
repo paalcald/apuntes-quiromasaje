@@ -1,0 +1,36 @@
+:PROPERTIES:
+:ID:       dc759066-e5a3-4ea3-81f5-5f662a4bccc8
+:END:
+#+title: Musculos Intrinsecos de la Mano
+#+filetags: :musculo:
+Son aquellos que se insertan únicamente en los huesos del esqueleto de la mano.
+* Interoseos
+Músculos pequeños cuyo vientre muscular se encuentra en los espaciones intoróseos, y sus tendones se dirigen hacia las falanges de los dedos.
+* Lumbricales
+** Origen
+Tendones del [[id:b76ff599-2172-4fd5-a68a-e82fca9b74ef][Flexor Comun Superficial de los Dedos]]
+** Insercion
+Tendones del [[id:bd6b0e1e-dbc7-47b4-9c2a-78c7cb6efecc][Extensor Comun de los dedos]]
+** Accion
+[[id:62ca8d4a-d747-466b-971f-988bc3ce5693][Flexion]] de la [[id:5a726bdb-abe2-48bf-b874-7d1bf39fcff6][Articulaciones Metacarpofalangicas]]
+* Intrinsecos del 5o dedo
+- 3 pequeños músculos.
+** Origen
+Gancho del [[id:5db0e8dc-900d-44a0-be05-edfdd307069c][Ganchoso]]
+** Insercion
+Cara interna del 5o [[id:3b819332-910e-4943-a5de-15b308219ecd][Metacarpiano]].
+** Accion
+Atrae al 5o dedo hacia el pulgar, participa en el ahuecamiento de la palma.
+* Intrinsecos del Pulgar
+** Aductor del Pulgar
+*** Origen
+*** Insercion
+*** Accion
+Atrae el pulgar al dedo corazón.
+** Flexor del Pulgar
+** Oponente del Pulgar
+*** Origen
+[[id:c982b78c-0d8a-4574-9f28-3965f2beb232][Trapecio del Carpo]]
+*** Accion
+Atrae el Pulgar al 5o dedo.
+** Abductor del Pulgar

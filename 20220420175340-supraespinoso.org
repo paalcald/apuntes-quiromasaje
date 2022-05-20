@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       a413bfc1-cf2a-4197-a611-49170be63b91
+:END:
+#+title: Supraespinoso
+* Origen
+ origina un tendón que pasa por debajo de la bóbeda formada por el [[id:f9edd2d4-7b11-45b3-a865-3533aae3518c][Acromion]], la [[id:ab4af034-8c2e-4c78-a9f6-cec1860b1017][Apofisis Coracoides]] y el ligamento que los une.
+* Insercion
+[[id:9735006b-2a20-4b1d-92f1-d48eb6d17624][Troquiter]]
+* Acccion
+Principal [[id:19ac5b2b-d732-426e-9a20-c59ba884a53f][Abductor]] del [[id:2e31d7b1-f544-4f43-a17c-863cf7793351][Hombro]] (60 primeros grados) y [[id:129fcb98-baeb-4784-8f83-ddbe345488a3][Rotacion Externa]].
+* Obs
+- Principal causa de la [[id:2989c031-56ad-422e-9df9-299ef47659ed][Tendinitis del supraespinoso]].
+- Pasa por el espacio subacromial y viene a insertarse en la parte superior del troquiter. Por lo tanto hace abduccion y rotación esterna, sólo abduce los 60 primeros grados, luego se estira.
+

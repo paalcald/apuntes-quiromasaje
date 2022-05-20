@@ -1,0 +1,30 @@
+:PROPERTIES:
+:ID:       7914be81-6692-4a5a-abd5-11bb4debf5ad
+:END:
+#+title: Radio
+#+filetags: :hueso:
+* Epifisis Superior
+** Cavidad Condilea del Radio
+:PROPERTIES:
+:ID:       40735ffd-d09f-4018-a70d-180f0cd447b9
+:END:
+Encaja en el [[id:364e5c12-844f-43fc-8603-2d1677bd6850][Condilo Humeral]].
+** Superficie Articular Trocoide del Radio
+:PROPERTIES:
+:ID:       5ef6d853-4d21-4103-9e39-bce821ba0e91
+:END:
+** Tuberosidad Bicipital del Radio
+:PROPERTIES:
+:ID:       60a13523-bb03-4af6-af9c-54e821d6a750
+:END:
+* Diafisis
+* Epifisis Inferior del Radio
+:PROPERTIES:
+:ID:       c1131228-ff5b-4370-b20c-6b16d16c524c
+:ROAM_ALIASES: "Epifisis Distal del Radio"
+:END:
+** Apofisis Estiloides de Radio
+:PROPERTIES:
+:ID:       e28eac60-3567-4bcf-a189-1dc36ac2c82f
+:END:
+Ligamento lateral Externo

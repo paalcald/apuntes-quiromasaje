@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       d99ab4b5-cbee-43fe-8e72-bd9c37a90292
+:END:
+#+title: Hueso Ganchoso
+#+filetags: :hueso:
+

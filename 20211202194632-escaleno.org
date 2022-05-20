@@ -1,0 +1,42 @@
+:PROPERTIES:
+:ID:       865e3b17-69e9-489a-a34c-0bffc049c513
+:END:
+#+title: Escaleno
+* Clasificacion
+  [[id:08b189ac-6bd9-4284-aee1-b53b82f67c92][Musculo]]
+* Definicion
+  Musculos laterales del cuello.
+* Subdivisiones
+** Escaleno Anterior
+   :PROPERTIES:
+   :ID:       31c2d021-b214-417f-8100-25f40d4e8f6b
+   :END:
+*** Origen
+    - Apofisis Transversas de [[id:699a8ad0-12e0-4a3e-a883-c5461f8acbcc][C3]], [[id:e1e10968-5db3-4d4c-9bd9-48b4475bdbca][C4]], [[id:092ff895-2a9c-467d-bd40-d8a28d55a727][C5]] y [[id:2f626e95-23bf-47c6-9a02-344fe02d542d][C6]].
+*** Insercion
+    - [[id:59e44849-497f-4b5e-bbf0-892ab4aa9179][1a Costilla]].
+*** Accion
+    - [[id:1a9f18ba-0917-44c5-a93b-0b39e58461a6][Inclinacion Homolateral]] de [[id:4d377713-8843-41fe-93e4-88306a2b9166][Columna Cervical]].
+    - [[id:e885e09d-198d-4f69-bf8d-97c0b48f0a7b][Musculo Inspiratorio]].
+** Escaleno Medio
+   :PROPERTIES:
+   :ID:       c9482b8a-6d42-4183-b530-f921aaeb2b8b
+   :END:
+*** Origen
+    - Apofisis Transversas de [[id:4d377713-8843-41fe-93e4-88306a2b9166][Vertebras Cervicales]].
+*** Insercion
+    - [[id:59e44849-497f-4b5e-bbf0-892ab4aa9179][1a Costilla]] (mas externo al [[id:3d3b6565-1ce7-460a-8676-68308601325f][Escaleno Anterior]]).
+*** Accion
+    - [[id:1a9f18ba-0917-44c5-a93b-0b39e58461a6][Inclinacion Homolateral]] de [[id:4d377713-8843-41fe-93e4-88306a2b9166][Columna Cervical]].
+    - [[id:e885e09d-198d-4f69-bf8d-97c0b48f0a7b][Musculo Inspiratorio]].
+** Escaleno Posterior
+   :PROPERTIES:
+   :ID:       e52e1684-49d9-4b03-bccf-e47117f03455
+   :END:
+*** Origen
+    - Apofisis Transversas [[id:092ff895-2a9c-467d-bd40-d8a28d55a727][C5]] y [[id:2f626e95-23bf-47c6-9a02-344fe02d542d][C6]].
+*** Insercion
+    - [[id:272e75b6-38f8-422a-a32e-dc559d43594d][2a Costilla]] (y en ocasiones tambien la [[id:d7b4f3fd-e7cd-414a-98fc-f0b65c5cbf88][3a Costilla]]).
+*** Accion
+    - [[id:1a9f18ba-0917-44c5-a93b-0b39e58461a6][Inclinacion Homolateral]] de [[id:4d377713-8843-41fe-93e4-88306a2b9166][Columna Cervical]].
+    - [[id:e885e09d-198d-4f69-bf8d-97c0b48f0a7b][Musculo Inspiratorio]].

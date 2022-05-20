@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       3b819332-910e-4943-a5de-15b308219ecd
+:END:
+#+title: Metacarpiano
+#+filetags: :hueso:
+

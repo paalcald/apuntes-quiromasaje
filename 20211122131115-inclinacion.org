@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       6cc53f10-4f2e-4772-8a43-78b8682d00f5
+:END:
+#+title: Inclinacion
+

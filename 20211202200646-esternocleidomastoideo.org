@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       38a162d2-0bb6-4df1-bee1-e72e8a6ec667
+:END:
+#+title: Esternocleidomastoideo
+* Clasificacion
+  [[id:08b189ac-6bd9-4284-aee1-b53b82f67c92][Musculo]]
+* Origen
+  - [[id:768cecf6-3b27-4770-ba77-f8efb6f4d8bc][Apofisis Mastoidea]] del [[id:cb384b04-0b8f-41f2-95c1-95ca1fb777dc][Hueso Temporal]].
+  - Linea Curva [[id:3ca983c6-3d38-4250-a122-d09ff9936fcd][Occipital]] Superior.
+* Insercion
+  - Manubrio del [[id:fa506598-58ce-4f71-bac8-d7353012f455][Esternon]].
+  - Parte interna de la [[id:ca3e88d3-934f-4dd4-8da0-b8982cf8c633][Clavicula]].
+* Accion
+** Origen Fijo
+   - [[id:e885e09d-198d-4f69-bf8d-97c0b48f0a7b][Musculo Inspiratorio]].
+   - Elevacion de [[id:fa506598-58ce-4f71-bac8-d7353012f455][Esternon]].
+   - Elevacion de [[id:ca3e88d3-934f-4dd4-8da0-b8982cf8c633][Clavicula]].
+** Insercion Fija
+** Unilateral
+   - [[id:fea48c0a-0de5-4592-b8d0-c06482e630e4][Extension]].
+   - [[id:f6c25bd5-7eef-4244-9b1d-79bc3dcdfe1f][Rotacion Contralateral]].
+   - [[id:1a9f18ba-0917-44c5-a93b-0b39e58461a6][Inclinacion Homolateral]].
+

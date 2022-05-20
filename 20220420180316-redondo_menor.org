@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       07d8e3b0-5d98-4f4a-b3fb-33066a492ced
+:END:
+#+title: Redondo Menor
+[[id:08b189ac-6bd9-4284-aee1-b53b82f67c92][Musculo]] profundo de la articulacion escapulo humeral
+* Origen
+[[id:069dbeaa-857f-4d9b-8f2f-72195030ace9][Fosa Infraespinosa]] borde externo o axilar
+* Insercion
+[[id:45e3c0fa-7094-45cd-bc77-72ee93f9ec0a][Troquiter]] por detras del [[id:1c3c2990-35bd-4678-973e-90aecf24699d][Infraespinoso]]
+* Accion
+[[id:129fcb98-baeb-4784-8f83-ddbe345488a3][Rotacion Externa]] del [[id:2e31d7b1-f544-4f43-a17c-863cf7793351][Hombro]] y ligera [[id:19ac5b2b-d732-426e-9a20-c59ba884a53f][Abduccion]].

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       98a36660-20f4-4918-b0ab-d8c34da8221a
+:END:
+#+title: Musculo Intertransverso
+* Origen e Insercion
+  De Apofisis Transversa de una [[id:e9be3111-5c1f-4280-8c3a-778628e47ab8][Vertebra]] a la Apofisis Transversa de la siguiente.
+* Accion
+** Unilateral
+   - [[id:6cc53f10-4f2e-4772-8a43-78b8682d00f5][Inclinacion]] Homolateral
+** Bilateral
+   No hay.

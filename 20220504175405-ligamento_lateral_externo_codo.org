@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       425fd4f5-ed49-44ee-89de-28090729f017
+:END:
+#+title: Ligamento Lateral Externo Codo
+#+filetags: :ligamento:
+Tres partes desde el [[id:fdc92f03-22ff-4c39-a4e3-f4008bbd8625][Epicondilo]], anterior y medio a cada cara del [[id:7914be81-6692-4a5a-abd5-11bb4debf5ad][Radio]] y el posterior al [[id:b9d1a99d-3bd9-4c4f-af9c-c44864f42db3][Olecranon]].

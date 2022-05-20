@@ -1,0 +1,42 @@
+:PROPERTIES:
+:ID:       a164819d-4a33-45a5-be49-cccc6368b71b
+:END:
+#+title: Ligamentos Intrinsecos del Codo
+#+filetags: :ligamento:
+* Ligamento Cuadrado
+:PROPERTIES:
+:ID:       20052f4a-e5d2-4242-86bc-56882e1d2b2c
+:END:
+Parte superior de [[id:c5c76e9e-e967-4ec0-8f19-bfbdaed80d65][Cavidad Sigmoidea Menor]] al [[id:7914be81-6692-4a5a-abd5-11bb4debf5ad][Radio]].
+* Ligamento Redondo del Radio
+:PROPERTIES:
+:ID:       417389c6-62f8-4a09-832f-da1d347fd794
+:ROAM_ALIASES: "Ligamento Anular del Radio"
+:END:
+Borde posterior de la [[id:c5c76e9e-e967-4ec0-8f19-bfbdaed80d65][Cavidad Sigmoidea Menor]] dando la vuelta al [[id:7914be81-6692-4a5a-abd5-11bb4debf5ad][Radio]] hasta el borde anterior de la [[id:c5c76e9e-e967-4ec0-8f19-bfbdaed80d65][Cavidad Sigmoidea Menor]].
+* Ligamento Interoseo
+:PROPERTIES:
+:ID:       705f5a9d-87cd-438e-a22d-b442e09f166d
+:END:
+Telilla que va entre [[id:7914be81-6692-4a5a-abd5-11bb4debf5ad][Radio]] y [[id:e228df52-bcb2-44b9-ae25-dfc050772b58][Cubito]].
+* Ligamento Triangular del Radio
+:PROPERTIES:
+:ID:       265c7792-b629-451f-8885-832444f7e345
+:END:
+Desde la [[id:b5580a61-730e-4648-8340-84cd11b0e71a][Apofisis Estiloides del Cubito]] hasta el [[id:7914be81-6692-4a5a-abd5-11bb4debf5ad][Radio]], articula con la Muñeca.
+* Ligamento Radio Cubital Anterior
+:PROPERTIES:
+:ID:       9d55fa0a-dcbd-46bf-a5f6-909f47f856b8
+:END:
+Une [[id:7914be81-6692-4a5a-abd5-11bb4debf5ad][Radio]] y [[id:e228df52-bcb2-44b9-ae25-dfc050772b58][Cubito]] en su Epifisis Inferior
+* Ligamento Radio Cubital Posterior
+:PROPERTIES:
+:ID:       8b4110bd-1173-449d-bb28-88f59e8529a3
+:END:
+Une [[id:7914be81-6692-4a5a-abd5-11bb4debf5ad][Radio]] y [[id:e228df52-bcb2-44b9-ae25-dfc050772b58][Cubito]] en su Epifisis Inferior
+* Ligamento De Denuce
+:PROPERTIES:
+:ID:       cd7fa3fe-e790-42ae-a2f1-57c510ef7d08
+:END:
+Retenedor de la supinacion
+Parte Superior la [[id:9e40718e-71b2-492e-af65-7d2f197495ef][Apofisis Coronoides del Cubito]] a la parte inferior de la [[id:60a13523-bb03-4af6-af9c-54e821d6a750][Tuberosidad Bicipital del Radio]]. 

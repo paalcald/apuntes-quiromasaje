@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       844d1f8d-8162-4326-8719-e5706c4666b3
+:END:
+#+title: Antepulsion
+Desplazar la cabeza del humero hacia la flexion i.e. cheparse
+
+Se da solo en las siguientes articulaciones
+* [[id:2e31d7b1-f544-4f43-a17c-863cf7793351][Hombro]]

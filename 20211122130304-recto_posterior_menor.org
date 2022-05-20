@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       028f3f27-2aad-40ef-952a-59a535c0b916
+:END:
+#+title:Musculo Recto Posterior Menor
+* Origen
+  Tuberculo Posterior del [[id:00c2a5f5-251a-49eb-b1c3-1bf44abf9d90][Atlas]]
+* Insercion
+  [[id:3ca983c6-3d38-4250-a122-d09ff9936fcd][Hueso Occipital]]
+* Accion
+** Bilateral
+   [[id:fea48c0a-0de5-4592-b8d0-c06482e630e4][Extension]] de [[id:c53713c6-4c74-4fd9-91da-80dc1f06f0d8][Cabeza]]
+** Unilateral
+   Pequeña, no se percibe.

@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       edb0a159-1189-4468-b0c2-cd89a6308ddb
+:END:
+#+title: Articulaciones Craneales
+#+filetags: :articulacion:
+* Articulacion Temporo Mandibular
+:PROPERTIES:
+:ID:       84c0c44d-624f-43e3-a171-bec29cff9116
+:END:
+Puede causar problemas de oido.

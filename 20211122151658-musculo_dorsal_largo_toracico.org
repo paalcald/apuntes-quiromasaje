@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       0e0731b6-fa51-4dba-bcd5-6849860f6a00
+:END:
+#+title: Musculo Dorsal Largo Toracico
+* Origen
+  Apofisis Transversa de las [[id:1af5c304-939b-4f65-9fcd-1995b43a64e1][Vertebras Lumbares]]
+* Insercion
+  Apofisis Transversas de las [[id:5fe7f4a1-7ab1-4bfd-af5c-a1dbe6355321][Vertebras Dorsales]], [[id:293ab453-56c1-4bf1-b680-cd6722fa7d6c][9a Costilla]] y [[id:168bad3f-bdf1-4db1-b3e3-f0cbb6794795][10a Costilla]].
+* Accion
+** Bilateral
+   [[id:fea48c0a-0de5-4592-b8d0-c06482e630e4][Extension]] de [[id:3ff3557a-7dac-4433-9a72-c780f2cbbcc1][Columna Vertebral]]
+** Unilateral
+   [[id:6cc53f10-4f2e-4772-8a43-78b8682d00f5][Inclinacion]] Homolateral

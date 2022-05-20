@@ -1,0 +1,40 @@
+:PROPERTIES:
+:ID:       3ff3557a-7dac-4433-9a72-c780f2cbbcc1
+:END:
+#+title: Columna Vertebral
+* Definicion
+La columna vertebral se encutra ubicada en la porción posterior del tronco y está formada por la sucesión de unos elementos óseos, llamados [[id:e9be3111-5c1f-4280-8c3a-778628e47ab8][vértebras]], vuya constitución fundamental es igual para todos ellos, y de una serie de discos cartilaginosos que los separan.
+
+* Funciones
+- Sostén del cuerpo
+  Esta funcion ha sufrido en el hombre algunas adaptaciones debido a su posición bípeda; por ello, las vértebras, principalmente los cueros vertebrales serán tanto más voluminosas cuanto más caudales sean, pues tendrán que soportar un mayor peso. Las vértebras, además de estar unidas entre sí por los discos intervertebrales, están articuladas por unas apófisis llamadas articulares.
+  
+- Protección de la médula espinal.
+  Este papel lo realizan las vértebras a través de una serie de prolongaciones óseas que , creciendo dorsalmente, rodean la médula y se reunen por detrás de ella. De esta forma, cada vértebra poseerá un orificio: el agujero vertebral, y de la superposición de estos orificios de forma el conducto raquídeo, en cuyo interior se encuentra alojada la médula.
+  
+- Sistema de palancas para realizar los movimientos del tronco.
+
+* Regiones
+La columna vertebral se divide en una serie de porciones o regiones.
+
+** [[id:4d377713-8843-41fe-93e4-88306a2b9166][Cervical]]
+Compuesta por siete vértebras.
+
+** Dorsal
+Formada por doce vértebras.
+
+** Lumbar
+Con cinco vértebras.
+
+** Sacra
+Compuesta por cinco vértebras fusionadas.
+
+** Coxigea
+Formada por dos, tres o cuatro vértebras rudimentarias unidas.
+
+* Concavidades
+Si observamos la columna en un plano sagital, veremos que posee una serie de curvas, correspondiendo cada una de e ellas a una porción vertebral.
+
+[[file:RegionesColumna.png]]
+
+

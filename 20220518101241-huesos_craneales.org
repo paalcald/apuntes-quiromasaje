@@ -1,0 +1,97 @@
+:PROPERTIES:
+:ID:       58776e24-e4b5-4bb8-b2d9-97ce70d7e081
+:END:
+#+title: Huesos Craneales
+#+filetags: :hueso:
+* Craneo
+Ocupa la parte superior y posterior de la cabeza y aloja el encéfalo.
+** Frontal
+:PROPERTIES:
+:ID:       fe1b821d-7f65-465f-9927-051482cfe11b
+:END:
+Constituye la frente y se prolong hacia abajo y detrás para formar las cuencas orbitarias.
+Conecta con [[id:feb082df-0b16-4ad6-92ac-9d8fdc798871][Cigomatico]] y [[id:bd00f2e5-0248-4f10-8932-8b687b3acbc4][Nasal]].
+*** Incisura Etmoidal
+Aloja el [[id:2fde8860-89f7-41df-8f03-3376aed300d9][Etmoides]].
+** Occipital
+:PROPERTIES:
+:ID:       940d510d-a148-4d0a-ba73-82f5bc30c11f
+:END:
+Hueso de gran tamaño, posee una abertura para la Medula Espinal ([[id:bac3e37a-5e62-4987-bccb-0fd3e9beb6f7][Agujero Magno]]) tiene un par de senos cabernosos que alojan el encéfalo y unas salidas para vasos.
+*** Agujero Magno
+:PROPERTIES:
+:ID:       bac3e37a-5e62-4987-bccb-0fd3e9beb6f7
+:END:
+*** Lineas Nucales
+:PROPERTIES:
+:ID:       09275abf-6b07-4169-a848-d4b48c948f68
+:END:
+** Parietal
+:PROPERTIES:
+:ID:       97c4ec6c-d04b-4f30-b915-640e8a72169e
+:END:
+Huesos curvos y planos qeu forman el techo y la pared lateral de la cavidad craneal.
+** Temporal
+:PROPERTIES:
+:ID:       42b9883a-277e-4c52-8c06-6caba50f4b64
+:END:
+- Son dos temporales.
+- Me conforma el oido interno y externo, presenta una abertura para el conjunto auditivo externo.
+*** Apofisis Mastoides
+:PROPERTIES:
+:ID:       1d196d02-e255-4488-8731-a973f657d5fe
+:END:
+*** Apofisis Cigomatica
+:PROPERTIES:
+:ID:       44f14f3c-15b9-4faa-81a0-44c474787f1d
+:END:
+*** Apofisis Estiloides del Temporal
+:PROPERTIES:
+:ID:       31332fb2-3137-421c-81b2-95c537420f14
+:END:
+Sujeta el Ioides
+*** Fosa Mandibular
+:PROPERTIES:
+:ID:       3c3055a7-2131-4ed4-9d03-86a32462cfc5
+:END:
+** Etmoides
+:PROPERTIES:
+:ID:       2fde8860-89f7-41df-8f03-3376aed300d9
+:END:
+Es un hueso central muy complejo que presenta muchas pequeñas cavidades. Está formado por tres partes
+*** Laminas Vertical del Etmoides
+** Esfenoides
+:PROPERTIES:
+:ID:       f31bd674-8a22-48fa-95b0-cc4c737e0c81
+:END:
+- Hueso impar situado en la parte media y central de craneo.
+#+begin_center
+Aloja la silla turca donde se aloja la glandula pituitaria o hipofisis.!!
+Ojo! Hipofisis es muy importante.
+#+end_center
+- Regula la tiroides.
+*** Hipotalamo
+Es la región del cerebro más importante para la coordinación de conductas esenciales, vinculadas al mantenimiento de la especie.
+Regua la liberación de hormonas de la hipófisis, mantiene la temperatura corporal, y organiza condictas , como la alimentación, ingesta de líquidos, apareamiento y agresión. Es el regulador central de las funciones viscerales autónomas y endocrinas.
+* Cara
+La cara está en la región anteroinferior y protege a los órganos de los sentidos.
+** Cigomatico
+:PROPERTIES:
+:ID:       feb082df-0b16-4ad6-92ac-9d8fdc798871
+:END:
+** Nasal
+:PROPERTIES:
+:ID:       bd00f2e5-0248-4f10-8932-8b687b3acbc4
+:END:
+** Maxilar
+:PROPERTIES:
+:ID:       1615188b-e0e6-474b-bc3f-9464b6d830e7
+:END:
+** Mandibula
+:PROPERTIES:
+:ID:       9afbb0fc-db3d-4ce0-894b-eaaaf7174e52
+:END:
+** Palatinos
+:PROPERTIES:
+:ID:       9e33e83c-e5a6-4366-b41e-ea68bd8dd371
+:END:

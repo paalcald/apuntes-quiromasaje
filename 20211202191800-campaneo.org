@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       1f23dc12-c094-430b-92d2-a5f66381784d
+:END:
+#+title: Campaneo
+

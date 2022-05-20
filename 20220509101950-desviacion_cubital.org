@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       94d76790-a001-4945-84b1-ebe50fa79e99
+:END:
+#+title: Desviacion Cubital
+[[id:6cc53f10-4f2e-4772-8a43-78b8682d00f5][Inclinacion]] hacia el [[id:e228df52-bcb2-44b9-ae25-dfc050772b58][Cubito]]

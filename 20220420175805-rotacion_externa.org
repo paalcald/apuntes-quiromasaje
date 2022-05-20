@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       129fcb98-baeb-4784-8f83-ddbe345488a3
+:END:
+#+title: Rotacion Externa
+

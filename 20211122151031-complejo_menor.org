@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       582e3fe8-4914-45b9-836c-4ce3049c3e77
+:END:
+#+title:Musculo Complejo Menor
+* Origen
+  Apofisis Articulares y Transversales de [[id:e1e10968-5db3-4d4c-9bd9-48b4475bdbca][C4]], [[id:092ff895-2a9c-467d-bd40-d8a28d55a727][C5]], [[id:2f626e95-23bf-47c6-9a02-344fe02d542d][C6]] y [[id:67326e88-1c65-4c13-92fb-4e71d7b34ba4][C7]] y Apofisis Transversales de [[id:0c396c65-2551-45b3-9681-304f2b9bd69f][D1]], [[id:e00634f3-9210-45b8-ba8a-b3e6c5aec3e3][D2]], [[id:f9438a1f-6795-41f0-b736-5eecf1755d86][D3]], [[id:cb1ea4d4-4f9d-44d5-b946-eb113bf5c959][D4]].
+* Insercion
+  [[id:768cecf6-3b27-4770-ba77-f8efb6f4d8bc][Apofisis Mastoidea]] del [[id:cb384b04-0b8f-41f2-95c1-95ca1fb777dc][Hueso Temporal]].
+* Accion
+** Bilateral
+   [[id:fea48c0a-0de5-4592-b8d0-c06482e630e4][Extension]] de [[id:c53713c6-4c74-4fd9-91da-80dc1f06f0d8][Cabeza]]
+** Unilateral
+   [[id:0d05a141-f797-4f87-aaaf-b0151f6c3379][Rotacion]] Homolateral
